@@ -1,0 +1,26 @@
+{
+  "id": "2635bcb2851f28243856",
+  "status": "COMPLETED",
+  "atividade": "Prospecção",
+  "categoria": "Sítio arqueológico",
+  "lat": null,
+  "lon": null,
+  "utm": null,
+  "azimute": null,
+  "direcao": "",
+  "descricaoAmbiental": "",
+  "observacoes": "",
+  "source": "",
+  "createdAt": 1766303870033,
+  "updatedAt": 1766303945535,
+  "images": [
+    {
+      "imgId": "ccd40173ee710cc915f5",
+      "filename": "20251117_104541.jpg",
+      "mime": "image/jpeg",
+      "size": 2396800,
+      "createdAt": 1766303931256,
+      "exif": null
+    }
+  ]
+}
