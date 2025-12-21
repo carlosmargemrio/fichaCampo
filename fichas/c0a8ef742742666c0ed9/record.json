@@ -1,0 +1,44 @@
+{
+  "id": "c0a8ef742742666c0ed9",
+  "status": "COMPLETED",
+  "atividade": "Delimitação de sítio arqueológico",
+  "categoria": "Sítio arqueológico",
+  "lat": -6.502256666666667,
+  "lon": -49.70324666666667,
+  "coordinates": [
+    -49.70324666666667,
+    -6.502256666666667
+  ],
+  "utm": {
+    "zone": 22,
+    "hemi": "S",
+    "easting": 643386.14,
+    "northing": 9281090.6
+  },
+  "azimute": null,
+  "direcao": "",
+  "source": "EXIF",
+  "azSource": "",
+  "descricaoAmbiental": "",
+  "observacoes": "",
+  "createdAt": 1766322329521,
+  "updatedAt": 1766328098073,
+  "images": [
+    {
+      "imgId": "6a32e657a278f14de822",
+      "filename": "12.jpg",
+      "mime": "image/jpeg",
+      "size": 2339051,
+      "createdAt": 1766328059571,
+      "caption": "asdasdasd",
+      "exif": {
+        "gps": {
+          "lat": -6.502256666666667,
+          "lon": -49.70324666666667
+        },
+        "dateTimeOriginal": "2025:11:17 08:31:17",
+        "gpsImgDirection": null
+      }
+    }
+  ]
+}
