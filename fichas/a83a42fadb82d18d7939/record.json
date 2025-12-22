@@ -1,0 +1,60 @@
+{
+  "id": "a83a42fadb82d18d7939",
+  "status": "COMPLETED",
+  "atividade": "Delimitação de sítio arqueológico",
+  "categoria": "Sítio arqueológico",
+  "lat": -6.502261666666667,
+  "lon": -49.70341638888889,
+  "coordinates": [
+    -49.70341638888889,
+    -6.502261666666667
+  ],
+  "utm": {
+    "zone": 22,
+    "hemi": "S",
+    "easting": 643367.37,
+    "northing": 9281090.09
+  },
+  "azimute": null,
+  "direcao": "",
+  "source": "EXIF",
+  "azSource": "",
+  "descricaoAmbiental": "zxczxczxczxc",
+  "observacoes": "asdasdasd",
+  "createdAt": 1766364686518,
+  "updatedAt": 1766364872684,
+  "images": [
+    {
+      "imgId": "58f132461f1ac4fe69bf",
+      "filename": "12.jpg",
+      "mime": "image/jpeg",
+      "size": 2339051,
+      "createdAt": 1766364805455,
+      "caption": "asdasd",
+      "exif": {
+        "gps": {
+          "lat": -6.502256666666667,
+          "lon": -49.70324666666667
+        },
+        "dateTimeOriginal": "2025:11:17 08:31:17",
+        "gpsImgDirection": null
+      }
+    },
+    {
+      "imgId": "b34fc93957abfd48958c",
+      "filename": "20251117_082055.jpg",
+      "mime": "image/jpeg",
+      "size": 2590393,
+      "createdAt": 1766364814842,
+      "caption": "zxcasdasdzxczxc",
+      "exif": {
+        "gps": {
+          "lat": -6.502261666666667,
+          "lon": -49.70341638888889
+        },
+        "dateTimeOriginal": "2025:11:17 08:20:55",
+        "gpsImgDirection": null
+      }
+    }
+  ]
+}
