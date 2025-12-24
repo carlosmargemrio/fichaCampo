@@ -1,0 +1,75 @@
+{
+  "rec": {
+    "id": "MJKEDOX0",
+    "status": "COMPLETED",
+    "createdAt": 1766603951460,
+    "updatedAt": 1766605810496,
+    "dataCampo": "2025-12-24",
+    "horaIni": "16:19",
+    "horaFim": "16:21",
+    "atividade": "Monitoramento",
+    "categoria": "Sítio arqueológico",
+    "projeto": "Luzia ",
+    "coordCampo": "asdasdasdsadasd",
+    "arqResp": "asdasdasdasdasd",
+    "tipoAcao": "Supressão Vegetal",
+    "clima": "ensolarado",
+    "vegetacao": "asdasdasd",
+    "relevo": "asdasdasd",
+    "solo": "asdasdasd",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "qweqweqweq",
+    "obs": "qweqweqwe"
+  },
+  "imgs": [
+    {
+      "filename": "20251101_094424.jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643206,
+        "northing": 9281128
+      },
+      "coordinates": [
+        -49.70487472222222,
+        -6.5019197222222225
+      ],
+      "dateTimeOriginal": "2025:11:01 09:44:24",
+      "hashArquivo_sha256": "853a0966d33751015e4679aff82a42ba49043bfb918e0f967047021a33238c0a"
+    },
+    {
+      "filename": "20251101_100534.jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643254,
+        "northing": 9281155
+      },
+      "coordinates": [
+        -49.70444138888889,
+        -6.501681666666666
+      ],
+      "dateTimeOriginal": "2025:11:01 10:05:34",
+      "hashArquivo_sha256": "5618f5ebfdd9791ee2b897295fa81a02f251f6fdda4f593f930b65f30b1ecdef"
+    },
+    {
+      "filename": "20251101_105230.jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643242,
+        "northing": 9281186
+      },
+      "coordinates": [
+        -49.70455166666667,
+        -6.501398055555556
+      ],
+      "dateTimeOriginal": "2025:11:01 10:52:30",
+      "hashArquivo_sha256": "c28b812552043b20ddec22e6da7ebe9766c31987b0157deca3ff473d46da9101"
+    }
+  ]
+}
