@@ -1,0 +1,59 @@
+{
+  "rec": {
+    "id": "MJLTB428",
+    "status": "COMPLETED",
+    "createdAt": 1766689491537,
+    "updatedAt": 1766690095359,
+    "dataCampo": "2025-12-25",
+    "horaIni": "16:04",
+    "horaFim": "16:14",
+    "atividade": "Prospecção",
+    "categoria": "Sítio arqueológico",
+    "projeto": "Hghh",
+    "coordCampo": "Ufyj",
+    "arqResp": "Yfhjht",
+    "tipoAcao": "Hfhuy",
+    "clima": "",
+    "vegetacao": "Ugyi",
+    "relevo": "Hfut",
+    "solo": "Yryut",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Hfhh",
+    "obs": "Uguy"
+  },
+  "imgs": [
+    {
+      "filename": "fc_2528509852554519350.jpg",
+      "caption": "Agora sim",
+      "utm": {
+        "zone": 23,
+        "band": "L",
+        "easting": 734049,
+        "northing": 8982112
+      },
+      "coordinates": [
+        -42.869886111111114,
+        -9.20206111111111
+      ],
+      "dateTimeOriginal": "2025:12:25 16:13:21",
+      "hashArquivo_sha256": "bb073b339f7a8d019bcb9b086cc61faa47c84e1bfd13c6ace32ff480e5cad63c"
+    },
+    {
+      "filename": "fc_7384167048619636361.jpg",
+      "caption": "",
+      "utm": {
+        "zone": 23,
+        "band": "L",
+        "easting": 734049,
+        "northing": 8982112
+      },
+      "coordinates": [
+        -42.869886111111114,
+        -9.20206111111111
+      ],
+      "dateTimeOriginal": "2025:12:25 16:13:43",
+      "hashArquivo_sha256": "eecebb4c8090edea66dcde7cba118f598d2574a07b037804c89f00c7086d05ab"
+    }
+  ]
+}
