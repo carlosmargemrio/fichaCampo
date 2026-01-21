@@ -1,0 +1,77 @@
+{
+  "rec": {
+    "id": "MKO6XBVC",
+    "status": "COMPLETED",
+    "createdAt": 1769010077784,
+    "updatedAt": 1769017542168,
+    "dataCampo": "2026-01-21",
+    "horaIni": "12:41",
+    "horaFim": "14:44",
+    "atividade": "Delimitação de sítio arqueológico",
+    "categoria": "Sítio arqueológico",
+    "projeto": "Luxxzxzx",
+    "coordCampo": "asd",
+    "arqResp": "asd",
+    "tipoAcao": "asdasdasdassadas",
+    "clima": "chuva",
+    "vegetacao": "asdasd",
+    "relevo": "asdasd",
+    "solo": "asdasdasd",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "asdasd",
+    "obs": "asdasdasd",
+    "modeloDocx": "MONITORAMENTO",
+    "tradagens": []
+  },
+  "imgs": [
+    {
+      "filename": "SA_Boqueirão_02(8).jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643352,
+        "northing": 9281138
+      },
+      "coordinates": [
+        -49.70355694444445,
+        -6.501826666666667
+      ],
+      "dateTimeOriginal": "2025:09:29 08:23:44",
+      "hashArquivo_sha256": "7a2ea5db7d4ff7bf997d18bad4279493b1d366b64b1a531c66eaa595e33ba722"
+    },
+    {
+      "filename": "SA_Boqueirão_02(9).jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643307,
+        "northing": 9281094
+      },
+      "coordinates": [
+        -49.70396083333333,
+        -6.502230833333333
+      ],
+      "dateTimeOriginal": "2025:09:29 08:30:40",
+      "hashArquivo_sha256": "43452ecafa7861a879abf9a26fd1f29f912acda6591c1b40898c439f99bc2854"
+    },
+    {
+      "filename": "SA_Boqueirão_02(10).jpg",
+      "caption": "asdasdasd",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643307,
+        "northing": 9281092
+      },
+      "coordinates": [
+        -49.70396027777778,
+        -6.5022416666666665
+      ],
+      "dateTimeOriginal": "2025:09:29 08:30:49",
+      "hashArquivo_sha256": "bd8ec087943811b606ea09076885ebdc76a2b55f5a12a4d0ae761b28d18c8633"
+    }
+  ]
+}
