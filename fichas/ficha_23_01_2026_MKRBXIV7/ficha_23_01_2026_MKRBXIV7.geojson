@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SA_Boqueirão_02(64).jpg",
+      "properties": {
+        "nome": "SA_Boqueirão_02(64)",
+        "arquivo": "SA_Boqueirão_02(64).jpg",
+        "caminho": "IMGS/SA_Boqueirão_02(64).jpg",
+        "lat": -6.503181666666666,
+        "lon": -49.703920000000004,
+        "latlon": "-6.503182, -49.703920",
+        "utm": "22M 643311 9280989",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643311,
+        "utm_northing": 9280989,
+        "utm_hemisphere": "S",
+        "data": "17/11/2025",
+        "horario": "10:00",
+        "legenda": "asdasd",
+        "hash_md5": null,
+        "hash_sha256": "0f00f4758f0bbe25e4c66f2e141b7c4ec81a623e8e8bc4cc350f97a305bd7826",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703920000000004,
+          -6.503181666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SA_Boqueirão_02(83).jpg",
+      "properties": {
+        "nome": "SA_Boqueirão_02(83)",
+        "arquivo": "SA_Boqueirão_02(83).jpg",
+        "caminho": "IMGS/SA_Boqueirão_02(83).jpg",
+        "lat": -6.502259722222222,
+        "lon": -49.70393972222222,
+        "latlon": "-6.502260, -49.703940",
+        "utm": "22M 643309 9281090",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643309,
+        "utm_northing": 9281090,
+        "utm_hemisphere": "S",
+        "data": "17/11/2025",
+        "horario": "07:52",
+        "legenda": "asdasdasd",
+        "hash_md5": null,
+        "hash_sha256": "d4f9c102cb0431ca9dff26226cf16d6e4e0801a3dcd5da4917a0b4efdae825d2",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70393972222222,
+          -6.502259722222222
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MKRBXIV7",
+    "dataCampo": "2026-01-23",
+    "horaIni": "17:24",
+    "horaFim": "19:24",
+    "atividade": "Monitoramento",
+    "categoria": "Área de interesse",
+    "projeto": "asdasd",
+    "coordCampo": "asdasd",
+    "arqResp": "asdasdasd",
+    "tipoAcao": "asdasdasd",
+    "clima": "chuva",
+    "vegetacao": "asdasd",
+    "relevo": "asdasd",
+    "solo": "asdasd",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "asdasdasdasd",
+    "obs": "asdasdasdasd",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
