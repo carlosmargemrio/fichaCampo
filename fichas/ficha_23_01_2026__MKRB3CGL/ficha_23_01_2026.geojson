@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SA_Boqueirão_02(17).jpg",
+      "properties": {
+        "nome": "SA_Boqueirão_02(17)",
+        "arquivo": "SA_Boqueirão_02(17).jpg",
+        "caminho": "IMGS/SA_Boqueirão_02(17).jpg",
+        "legenda": "asdasd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70498138888889,
+          -6.502188333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SA_Boqueirão_02(23).jpg",
+      "properties": {
+        "nome": "SA_Boqueirão_02(23)",
+        "arquivo": "SA_Boqueirão_02(23).jpg",
+        "caminho": "IMGS/SA_Boqueirão_02(23).jpg",
+        "legenda": "asdasd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70498138888889,
+          -6.502188333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SA_Boqueirão_02(29).jpg",
+      "properties": {
+        "nome": "SA_Boqueirão_02(29)",
+        "arquivo": "SA_Boqueirão_02(29).jpg",
+        "caminho": "IMGS/SA_Boqueirão_02(29).jpg",
+        "legenda": "asdasd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70417305555556,
+          -6.5022166666666665
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MKRB3CGL",
+    "status": "COMPLETED",
+    "createdAt": 1769198475477,
+    "updatedAt": 1769198733891,
+    "dataCampo": "2026-01-23",
+    "horaIni": "17:01",
+    "horaFim": "17:01",
+    "atividade": "Monitoramento",
+    "categoria": "Sítio arqueológico",
+    "projeto": "asdasdasd",
+    "coordCampo": "asdasd",
+    "arqResp": "asdasd",
+    "tipoAcao": "asdasdasd",
+    "clima": "chuva",
+    "vegetacao": "asdasd",
+    "relevo": "asdasda",
+    "solo": "asdasd",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "asdasd",
+    "obs": "asdasdasd",
+    "modeloDocx": "TRADAGENS",
+    "tradagens": [
+      {
+        "id": "T1",
+        "coords": [
+          -49.70498138888889,
+          -6.502188333333334
+        ],
+        "status": "Negativo",
+        "profFinalCm": 30,
+        "camadas": [
+          {
+            "de": 0,
+            "ate": 10,
+            "texto": "qweqweqweqweqweqweqwe"
+          },
+          {
+            "de": 10,
+            "ate": 20,
+            "texto": "qweqweqweqwe"
+          },
+          {
+            "de": 20,
+            "ate": 30,
+            "texto": "qweqweqweqweqweqwe"
+          }
+        ],
+        "observacaoIntervencao": "qweqweqweqwe",
+        "imageKey": "MKRB3CGL_1769198497846_7u6y0w7vp9"
+      },
+      {
+        "id": "T2",
+        "coords": [
+          -49.70498138888889,
+          -6.502188333333334
+        ],
+        "status": "Negativo",
+        "profFinalCm": 20,
+        "camadas": [
+          {
+            "de": 0,
+            "ate": 10,
+            "texto": "asdasdasd"
+          },
+          {
+            "de": 10,
+            "ate": 20,
+            "texto": "asdasdasdasdasd"
+          }
+        ],
+        "observacaoIntervencao": "asdasdasd",
+        "imageKey": "MKRB3CGL_1769198497858_wpnmmf8ttyd"
+      },
+      {
+        "id": "T3",
+        "coords": [
+          -49.70417305555556,
+          -6.5022166666666665
+        ],
+        "status": "Positivo",
+        "profFinalCm": 30,
+        "camadas": [
+          {
+            "de": 0,
+            "ate": 10,
+            "texto": "asdasdasd"
+          },
+          {
+            "de": 10,
+            "ate": 20,
+            "texto": "asdasdasd"
+          },
+          {
+            "de": 20,
+            "ate": 30,
+            "texto": "asdasdasdasd"
+          }
+        ],
+        "observacaoIntervencao": "asdasdasd",
+        "imageKey": "MKRB3CGL_1769198497869_pem148d366b"
+      }
+    ],
+    "imagens_sem_gps": []
+  }
+}
