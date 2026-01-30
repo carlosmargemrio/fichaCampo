@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKZEIZGO",
+    "status": "COMPLETED",
+    "createdAt": 1769687973384,
+    "updatedAt": 1769812620802,
+    "dataCampo": "2026-01-29",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e carregamento de sedimentos ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Médio ",
+    "solo": "",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta nativa secundária ",
+    "obs": "Acompanhamento arqueológico na área de depósito para material excedente ADME, local de solo argiloso com alguns conglomerados, durante acompanhamento, não evidenciamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260129_085837.jpg",
+      "caption": "Corte de terreno ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643262,
+        "northing": 9281463
+      },
+      "coordinates": [
+        -49.70438,
+        -6.498891388888889
+      ],
+      "dateTimeOriginal": "2026:01:29 08:58:37",
+      "hashArquivo_sha256": "32962ef894e8a7ac0e3b63f4013d8ea936a1f0f03305dd698d34305c5f6da136"
+    },
+    {
+      "filename": "20260129_085702.jpg",
+      "caption": "Corte de terreno ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643262,
+        "northing": 9281454
+      },
+      "coordinates": [
+        -49.70437833333334,
+        -6.498973333333334
+      ],
+      "dateTimeOriginal": "2026:01:29 08:57:01",
+      "hashArquivo_sha256": "56fe89dcfe2d1c6e1ad0ef076b67a5f1ee5e81cbc7e477177915c2ab4f5af709"
+    },
+    {
+      "filename": "20260129_082902.jpg",
+      "caption": "Pesquisador acompanhando ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643259,
+        "northing": 9281434
+      },
+      "coordinates": [
+        -49.70440472222222,
+        -6.499154722222222
+      ],
+      "dateTimeOriginal": "2026:01:29 08:29:02",
+      "hashArquivo_sha256": "534e80b9e6e98a0b1366223b36ed846783feb01fa84e7d7a04d536f838a69964"
+    },
+    {
+      "filename": "20260129_082831.jpg",
+      "caption": "Máquina carregando caçamba ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643272,
+        "northing": 9281418
+      },
+      "coordinates": [
+        -49.70429,
+        -6.499301388888889
+      ],
+      "dateTimeOriginal": "2026:01:29 08:28:31",
+      "hashArquivo_sha256": "5244d5e549191a92fdd18971cbf1163b30e898ef65df2a623b4c055113219971"
+    }
+  ]
+}
