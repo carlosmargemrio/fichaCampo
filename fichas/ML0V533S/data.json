@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "ML0V533S",
+    "status": "COMPLETED",
+    "createdAt": 1769776344568,
+    "updatedAt": 1769812576041,
+    "dataCampo": "2026-01-30",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de talude",
+    "clima": "nublado",
+    "vegetacao": "Área suprimida e em fase de terraplanagem ",
+    "relevo": "Médio ",
+    "solo": "Argiloao",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entrorno composto por árvores nativas, floresta secundária ",
+    "obs": "Durante acompanhamento das atividades na área monitorada, não identificamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260130_083819.jpg",
+      "caption": "Pesquisador analisando perfil ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643260,
+        "northing": 9281508
+      },
+      "coordinates": [
+        -49.704393333333336,
+        -6.498481666666667
+      ],
+      "dateTimeOriginal": "2026:01:30 08:38:19",
+      "hashArquivo_sha256": "e90234048f9515c23506c5188542110ad4c5a1c206905e1fcd6a2b1c67cde628"
+    },
+    {
+      "filename": "20260130_091936.jpg",
+      "caption": "Corte de talude",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643302,
+        "northing": 9281418
+      },
+      "coordinates": [
+        -49.704013055555556,
+        -6.499296666666667
+      ],
+      "dateTimeOriginal": "2026:01:30 09:19:36",
+      "hashArquivo_sha256": "2d7568ce033c2d0dd38cb042046837ea3a773d4e7cf79dbc6ef758f6b5a70d3d"
+    },
+    {
+      "filename": "20260130_092641.jpg",
+      "caption": "Corte de talude",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643249,
+        "northing": 9281492
+      },
+      "coordinates": [
+        -49.70449666666667,
+        -6.498631666666666
+      ],
+      "dateTimeOriginal": "2026:01:30 09:26:41",
+      "hashArquivo_sha256": "bc3fa1f0295e61e68393858f4e34c98bea3dea5d78747d29b9929dbf8ad0eb89"
+    },
+    {
+      "filename": "20260130_091903.jpg",
+      "caption": "Carregamento de sedimentos ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643308,
+        "northing": 9281418
+      },
+      "coordinates": [
+        -49.70396138888889,
+        -6.499296666666667
+      ],
+      "dateTimeOriginal": "2026:01:30 09:19:03",
+      "hashArquivo_sha256": "e5d50d4e7808b7ba9543f2b058b09c6c4c1661c69dedf2a047fc2a07a6889d5a"
+    }
+  ]
+}
