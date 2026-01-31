@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKXZZUDX",
+    "status": "COMPLETED",
+    "createdAt": 1769603099541,
+    "updatedAt": 1769867628777,
+    "dataCampo": "2026-01-28",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Cícero Oliveira ",
+    "clima": "garoa",
+    "vegetacao": "Área suprimida",
+    "relevo": "Média vertente ",
+    "solo": "Argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área em média vertente, já suprimida, o entorno é composto por árvores nativas, a leste o córrego Boqueirão e a sul o sítio arqueológico Boqueirão 3.",
+    "obs": "Especialmente no local monitorado, não encontramos materialidade arqueológica, embora, como escrito, o sítio arqueológico Boqueirão 3, encontra-se a apromadamente 300 metros."
+  },
+  "imgs": [
+    {
+      "filename": "20260128_092035.jpg",
+      "caption": "Abertura de alicerces ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643564,
+        "northing": 9281078
+      },
+      "coordinates": [
+        -49.70163666666667,
+        -6.502366666666667
+      ],
+      "dateTimeOriginal": "2026:01:28 09:20:35",
+      "hashArquivo_sha256": "2be3cb6fb4ca446ad4a257d48e183acac80ce50da544e76b3b5dae28cbab98f0"
+    },
+    {
+      "filename": "20260128_092021.jpg",
+      "caption": "Abertura de alicerces ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643565,
+        "northing": 9281082
+      },
+      "coordinates": [
+        -49.70163138888889,
+        -6.502328055555555
+      ],
+      "dateTimeOriginal": "2026:01:28 09:20:21",
+      "hashArquivo_sha256": "21568fe087fb0a647eb83de89d82fb064c0b44ffd676a4d193a89beeb41c6a6d"
+    },
+    {
+      "filename": "20260128_092044.jpg",
+      "caption": "Pesquisador acompanhando ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643564,
+        "northing": 9281078
+      },
+      "coordinates": [
+        -49.70163666666667,
+        -6.5023647222222225
+      ],
+      "dateTimeOriginal": "2026:01:28 09:20:44",
+      "hashArquivo_sha256": "1bf65be77750f664965fb2d4dab4700fc2262cc9802e792ea170f651ae47cbfe"
+    },
+    {
+      "filename": "20260128_092003.jpg",
+      "caption": "Abertura de alicerces ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643566,
+        "northing": 9281094
+      },
+      "coordinates": [
+        -49.701620000000005,
+        -6.502225
+      ],
+      "dateTimeOriginal": "2026:01:28 09:20:03",
+      "hashArquivo_sha256": "9e7336eee69513cf354743029618f6434655be9fb8f1bd9e620e3420becad617"
+    }
+  ]
+}
