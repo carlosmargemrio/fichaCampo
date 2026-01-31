@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKRGNQO0",
+    "status": "DRAFT",
+    "createdAt": 1769207825089,
+    "updatedAt": 1769208714688,
+    "dataCampo": "2026-01-23",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e terraplanagem ",
+    "clima": "nublado",
+    "vegetacao": "Área supemida",
+    "relevo": "Baixo",
+    "solo": "",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem composta por capim, jurubeba e gramíneas ",
+    "obs": "Monitoramento em área de baixa vertente, local de pastagem com solo areno argiloso, averiguarmos a área e não evidenciamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260119_105212.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637303,
+        "northing": 9283051
+      },
+      "coordinates": [
+        -49.758291666666665,
+        -6.484661666666667
+      ],
+      "dateTimeOriginal": "2026:01:19 10:52:12",
+      "hashArquivo_sha256": "531ea1792e8ad72f6e5830d4d090d71be72c6b6cdb7c6fbbf25dbc40ec065408"
+    },
+    {
+      "filename": "20260119_105223.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637302,
+        "northing": 9283054
+      },
+      "coordinates": [
+        -49.758305,
+        -6.484641388888889
+      ],
+      "dateTimeOriginal": "2026:01:19 10:52:23",
+      "hashArquivo_sha256": "4e9934fd74195bdab7dd40cc673973f22b2fd53b8151a56dedb89e9cfffc89aa"
+    },
+    {
+      "filename": "20260119_110559.jpg",
+      "caption": "Supressão vegetal",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637375,
+        "northing": 9283300
+      },
+      "coordinates": [
+        -49.75765333333333,
+        -6.482408055555556
+      ],
+      "dateTimeOriginal": "2026:01:19 11:05:59",
+      "hashArquivo_sha256": "c49a1502da5f94af5ac6e6a9eda14258e775f292d991cf078ca49206217aab42"
+    },
+    {
+      "filename": "20260120_102732.jpg",
+      "caption": "Pesquisador acompanhando ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 635717,
+        "northing": 9285572
+      },
+      "coordinates": [
+        -49.772688055555555,
+        -6.461896388888889
+      ],
+      "dateTimeOriginal": "2026:01:20 10:27:32",
+      "hashArquivo_sha256": "941a043e9e0c542340d825cea1f35d11def34782305dc341a03bb364f66b7394"
+    }
+  ]
+}
