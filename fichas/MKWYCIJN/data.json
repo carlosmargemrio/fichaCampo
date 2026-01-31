@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKWYCIJN",
+    "status": "DRAFT",
+    "createdAt": 1769539865315,
+    "updatedAt": 1769540106671,
+    "dataCampo": "2026-01-27",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "",
+    "clima": "",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Médio ",
+    "solo": "Argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida e em fase de cortes do terreno, terraplanagem e carregamento de sedimentos ",
+    "obs": "Monitoramento arqueológico na área de depósito para material excedente ADME, atividade de corte de terreno e carregamento de sedimentos, durante acompanhamento, não evidenciamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260126_100455.jpg",
+      "caption": "Pesquisador acompanhando",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643249,
+        "northing": 9281454
+      },
+      "coordinates": [
+        -49.70449305555556,
+        -6.498971666666667
+      ],
+      "dateTimeOriginal": "2026:01:26 10:04:55",
+      "hashArquivo_sha256": "70218333228a8b25026fc5c98bb1b0e9e7b27cc98f51af3dd35e037e9b61e6ba"
+    },
+    {
+      "filename": "20260126_100557.jpg",
+      "caption": "Corte de terreno",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643245,
+        "northing": 9281459
+      },
+      "coordinates": [
+        -49.70453138888889,
+        -6.498926666666667
+      ],
+      "dateTimeOriginal": "2026:01:26 10:05:57",
+      "hashArquivo_sha256": "b17126bc311178389ecd905dc250b4b78e2f2b109b68b92878245f1b89f926e9"
+    },
+    {
+      "filename": "20260126_100601.jpg",
+      "caption": "Corte de terreno ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643245,
+        "northing": 9281459
+      },
+      "coordinates": [
+        -49.70453138888889,
+        -6.498926666666667
+      ],
+      "dateTimeOriginal": "2026:01:26 10:06:01",
+      "hashArquivo_sha256": "1edcc5f17f098923559f2a8c46a0a2a607bddfb88a6a92a63e4544978f977117"
+    },
+    {
+      "filename": "20260126_100610.jpg",
+      "caption": "Corte de terreno ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643245,
+        "northing": 9281459
+      },
+      "coordinates": [
+        -49.70453138888889,
+        -6.498926666666667
+      ],
+      "dateTimeOriginal": "2026:01:26 10:06:09",
+      "hashArquivo_sha256": "ed8c0c3954fe88c32c33d4aa7742dcf98364ab5c942e67bfac279fb2870bad32"
+    }
+  ]
+}
