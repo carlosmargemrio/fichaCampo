@@ -24,68 +24,68 @@
   },
   "imgs": [
     {
-      "filename": "20260129_085837.jpg",
-      "caption": "Corte de terreno ",
+      "filename": "20260130_093131.jpg",
+      "caption": "Corte de talude",
       "utm": {
         "zone": 22,
         "band": "M",
-        "easting": 643262,
-        "northing": 9281463
+        "easting": 643243,
+        "northing": 9281492
       },
       "coordinates": [
-        -49.70438,
-        -6.498891388888889
+        -49.70455472222223,
+        -6.498631666666666
       ],
-      "dateTimeOriginal": "2026:01:29 08:58:37",
-      "hashArquivo_sha256": "32962ef894e8a7ac0e3b63f4013d8ea936a1f0f03305dd698d34305c5f6da136"
+      "dateTimeOriginal": "2026:01:30 09:31:31",
+      "hashArquivo_sha256": "4db0dbe3b109bbe2b7c428694ec2cce8215417659ba5f7baadcebf8b25875f0c"
     },
     {
-      "filename": "20260129_085702.jpg",
-      "caption": "Corte de terreno ",
+      "filename": "20260130_091946.jpg",
+      "caption": "Monitorando",
       "utm": {
         "zone": 22,
         "band": "M",
-        "easting": 643262,
-        "northing": 9281454
-      },
-      "coordinates": [
-        -49.70437833333334,
-        -6.498973333333334
-      ],
-      "dateTimeOriginal": "2026:01:29 08:57:01",
-      "hashArquivo_sha256": "56fe89dcfe2d1c6e1ad0ef076b67a5f1ee5e81cbc7e477177915c2ab4f5af709"
-    },
-    {
-      "filename": "20260129_082902.jpg",
-      "caption": "Pesquisador acompanhando ",
-      "utm": {
-        "zone": 22,
-        "band": "M",
-        "easting": 643259,
-        "northing": 9281434
-      },
-      "coordinates": [
-        -49.70440472222222,
-        -6.499154722222222
-      ],
-      "dateTimeOriginal": "2026:01:29 08:29:02",
-      "hashArquivo_sha256": "534e80b9e6e98a0b1366223b36ed846783feb01fa84e7d7a04d536f838a69964"
-    },
-    {
-      "filename": "20260129_082831.jpg",
-      "caption": "Máquina carregando caçamba ",
-      "utm": {
-        "zone": 22,
-        "band": "M",
-        "easting": 643272,
+        "easting": 643302,
         "northing": 9281418
       },
       "coordinates": [
-        -49.70429,
-        -6.499301388888889
+        -49.704013055555556,
+        -6.499296666666667
       ],
-      "dateTimeOriginal": "2026:01:29 08:28:31",
-      "hashArquivo_sha256": "5244d5e549191a92fdd18971cbf1163b30e898ef65df2a623b4c055113219971"
+      "dateTimeOriginal": "2026:01:30 09:19:46",
+      "hashArquivo_sha256": "c0ae5af48c019b8996bd8a05ff5d2262a4a23a5c9088292bf0509f9c96f0073d"
+    },
+    {
+      "filename": "20260130_083823.jpg",
+      "caption": "Analisando perfil ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643256,
+        "northing": 9281507
+      },
+      "coordinates": [
+        -49.704434722222224,
+        -6.498498055555555
+      ],
+      "dateTimeOriginal": "2026:01:30 08:38:23",
+      "hashArquivo_sha256": "bd89b51dcf3af8690c20644ecb1f45079fce7bb96c1f50cf6e914d5f7649ce18"
+    },
+    {
+      "filename": "20260130_090835.jpg",
+      "caption": "Terraplanagem ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643294,
+        "northing": 9281419
+      },
+      "coordinates": [
+        -49.70408805555556,
+        -6.499286388888889
+      ],
+      "dateTimeOriginal": "2026:01:30 09:08:35",
+      "hashArquivo_sha256": "4b099d63e964c44ba0689b0f20ad98a0fac64ca49563e72119f40c83e6b7ed15"
     }
   ]
 }
