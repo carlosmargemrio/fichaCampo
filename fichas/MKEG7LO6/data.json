@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKEG7LO6",
+    "status": "DRAFT",
+    "createdAt": 1768421011830,
+    "updatedAt": 1768421297953,
+    "dataCampo": "2026-01-14",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cássia Bars",
+    "tipoAcao": "Supressão Vegetal ",
+    "clima": "garoa",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Baixo",
+    "solo": "Argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem composta por gramíneas, capim e jurubeba ",
+    "obs": "Monitoramento arqueológico da área de acesso para escoamento de minério, a supressão vegetal foi feita a partir de mão de obra mecanizada, durante o acompanhamento das atividades, não evidenciamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260114_105201.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 640673,
+        "northing": 9280880
+      },
+      "coordinates": [
+        -49.72777138888889,
+        -6.504226666666667
+      ],
+      "dateTimeOriginal": "2026:01:14 10:52:01",
+      "hashArquivo_sha256": "516e5fa7d2f41e81c1b7851c401e493265b16217d9f866f3950f90d422f897da"
+    },
+    {
+      "filename": "20260114_105231.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 640667,
+        "northing": 9280889
+      },
+      "coordinates": [
+        -49.727831361111114,
+        -6.504138055555556
+      ],
+      "dateTimeOriginal": "2026:01:14 10:52:31",
+      "hashArquivo_sha256": "92e7b49decae2b6ed6cf9a70b1a853f2550fce1a44a476d784d97030d61119ba"
+    },
+    {
+      "filename": "20260114_105310.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 640667,
+        "northing": 9280898
+      },
+      "coordinates": [
+        -49.727829722222225,
+        -6.50406
+      ],
+      "dateTimeOriginal": "2026:01:14 10:53:10",
+      "hashArquivo_sha256": "60e8adf4eeba3391c3ad54681e10b2dc0b55d29cbcf310079e143403fe4bef24"
+    },
+    {
+      "filename": "20260114_105327.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 640668,
+        "northing": 9280909
+      },
+      "coordinates": [
+        -49.72782138888889,
+        -6.503964722222222
+      ],
+      "dateTimeOriginal": "2026:01:14 10:53:27",
+      "hashArquivo_sha256": "f14a2f0f1ff4b2e36211562ffc2f3ca6dfc32b93ea990b6d99d34074e8b4baea"
+    }
+  ]
+}
