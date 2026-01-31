@@ -1,0 +1,59 @@
+{
+  "rec": {
+    "id": "MKOH8HET",
+    "status": "DRAFT",
+    "createdAt": 1769027394341,
+    "updatedAt": 1769027556493,
+    "dataCampo": "2026-01-21",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "",
+    "vegetacao": "Mata secundária ",
+    "relevo": "Baixo",
+    "solo": "Arenoso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem composta por capim e gramíneas ",
+    "obs": "Durante acompanhamento, não foram idênticadas quaisquer materialidade relacionada ao humano pretérito."
+  },
+  "imgs": [
+    {
+      "filename": "IMG-20260121-WA0097.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "0392e2d9c3c9248b26153971c652f6857fdcd27e013a2ae34411a18e3c4a1a35"
+    },
+    {
+      "filename": "IMG-20260121-WA0098.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "9d70c8521c0f720a9a474b09f8321914824395fc093eac079e89c2595399b345"
+    },
+    {
+      "filename": "IMG-20260121-WA0100.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "0ca8bdb5941464556b7463850708cfc9ec2d62e1ac727a5a87460a00e1347bfc"
+    },
+    {
+      "filename": "IMG-20260121-WA0101.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "9abd04b8a73baf3102eaea3ad4cc69adb037ab02bd02937ac1470811439a4242"
+    }
+  ]
+}
