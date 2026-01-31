@@ -1,0 +1,91 @@
+{
+  "rec": {
+    "id": "MKL1WV2U",
+    "status": "DRAFT",
+    "createdAt": 1768820259414,
+    "updatedAt": 1768844256123,
+    "dataCampo": "2026-01-19",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão Vegetal ",
+    "clima": "nublado",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Baixo",
+    "solo": "",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem e mata secundária, composta por gramíneas, capim e jurubeba.",
+    "obs": "O trecho monitorado situa-se e média vertente e com solo argilo-arenoso, durante as atividades do dia, não identificamos materialidade arqueológica."
+  },
+  "imgs": [
+    {
+      "filename": "20260119_100219.jpg",
+      "caption": "Revolvimento de solo",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 638010,
+        "northing": 9282531
+      },
+      "coordinates": [
+        -49.751891666666666,
+        -6.489353333333334
+      ],
+      "dateTimeOriginal": "2026:01:19 10:02:19",
+      "hashArquivo_sha256": "2523a5e1f659c94678638c489f681105ac6546f62ad3d511c0adea0f9f17caeb"
+    },
+    {
+      "filename": "20260119_101605.jpg",
+      "caption": "Revolvimento de solo",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637785,
+        "northing": 9282670
+      },
+      "coordinates": [
+        -49.75393305555556,
+        -6.488101666666667
+      ],
+      "dateTimeOriginal": "2026:01:19 10:16:05",
+      "hashArquivo_sha256": "c5e287bdecabb42d3e30315ab281e17604c22750b76cea09e97183dd5ef965b2"
+    },
+    {
+      "filename": "20260119_103310.jpg",
+      "caption": "Arqueólogo acompanhando",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637329,
+        "northing": 9282846
+      },
+      "coordinates": [
+        -49.75805166666667,
+        -6.486518333333334
+      ],
+      "dateTimeOriginal": "2026:01:19 10:33:10",
+      "hashArquivo_sha256": "ef72194dcb183e6408f3ffafdd39442fa42a0a13c036de4177c61702769574d5"
+    },
+    {
+      "filename": "20260119_103806.jpg",
+      "caption": "Revolvimento de solo",
+      "utm": {
+        "zone": 22,
+        "band": "M",
+        "easting": 637286,
+        "northing": 9282874
+      },
+      "coordinates": [
+        -49.75844166666667,
+        -6.4862697222222225
+      ],
+      "dateTimeOriginal": "2026:01:19 10:38:06",
+      "hashArquivo_sha256": "8cc7458faf400f976a9af189c74529cf8f8c6158631ab9aab0bf7e272e055b4a"
+    }
+  ]
+}
