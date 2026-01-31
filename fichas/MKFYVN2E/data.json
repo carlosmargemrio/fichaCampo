@@ -1,0 +1,59 @@
+{
+  "rec": {
+    "id": "MKFYVN2E",
+    "status": "DRAFT",
+    "createdAt": 1768512832646,
+    "updatedAt": 1768515722017,
+    "dataCampo": "2026-01-15",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "Outro",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cássia Bars",
+    "tipoAcao": "Supressão Vegetal ",
+    "clima": "nublado",
+    "vegetacao": "Área de pastagem composta por capim, gramíneas e jurubeba.",
+    "relevo": "Baixo",
+    "solo": "Argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área composta por capim, jurubeba e gramíneas, local de pastagem em baixa vertente, ao norte elevações com árvores de grande e médio porte, no local houve queimadas a 3 anos e a mata mais frágil ainda se recompõe.",
+    "obs": "Durante acompanhamento do trecho, não foram idênticados quaisquer materialidade arqueológica ou ações outras que remetem ao humano pretérito."
+  },
+  "imgs": [
+    {
+      "filename": "IMG-20260115-WA0017.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "4c715d592f9e72d3df93c3abc9212cf144250f1e1b87b53bea4b4854be46f762"
+    },
+    {
+      "filename": "IMG-20260115-WA0020.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "ab3295b312ac94bde153464fc2addefae98929fa0b27f83eeb8c12d31d78ed65"
+    },
+    {
+      "filename": "IMG-20260115-WA0022.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "f36f28553a974821bcedf93a8bbe6e01065239b8a3bae23ed55edd39164b6f07"
+    },
+    {
+      "filename": "IMG-20260115-WA0024.jpg",
+      "caption": "Supressão vegetal ",
+      "utm": null,
+      "coordinates": null,
+      "dateTimeOriginal": null,
+      "hashArquivo_sha256": "3706eccc4497b6897b3a0d22d6359e7dec729ae9106ac898287738cca62f78ee"
+    }
+  ]
+}
