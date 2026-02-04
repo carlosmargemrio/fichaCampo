@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260204_093042.jpg",
+      "properties": {
+        "nome": "20260204_093042",
+        "arquivo": "20260204_093042.jpg",
+        "caminho": "IMGS/20260204_093042.jpg",
+        "lat": -6.502445,
+        "lon": -49.70168,
+        "latlon": "-6.502445, -49.701680",
+        "utm": "22M 643559 9281069",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643559,
+        "utm_northing": 9281069,
+        "utm_hemisphere": "S",
+        "data": "04/02/2026",
+        "horario": "09:30",
+        "legenda": "Pesquisador analisando perfil ",
+        "hash_md5": null,
+        "hash_sha256": "3b3697a5494ae3e49c0044300abe65a743f46a85dcaabcc28d44fa416cf97744",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70168,
+          -6.502445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260204_093656.jpg",
+      "properties": {
+        "nome": "20260204_093656",
+        "arquivo": "20260204_093656.jpg",
+        "caminho": "IMGS/20260204_093656.jpg",
+        "lat": -6.502373055555555,
+        "lon": -49.70163138888889,
+        "latlon": "-6.502373, -49.701631",
+        "utm": "22M 643565 9281077",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643565,
+        "utm_northing": 9281077,
+        "utm_hemisphere": "S",
+        "data": "04/02/2026",
+        "horario": "09:36",
+        "legenda": "Corte de terreno ",
+        "hash_md5": null,
+        "hash_sha256": "4bd54796fca9fbed8072b9376dac3694be9023a089cfa75de7d2dd93a2cc2900",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70163138888889,
+          -6.502373055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260204_092609.jpg",
+      "properties": {
+        "nome": "20260204_092609",
+        "arquivo": "20260204_092609.jpg",
+        "caminho": "IMGS/20260204_092609.jpg",
+        "lat": -6.502376666666667,
+        "lon": -49.70173638888889,
+        "latlon": "-6.502377, -49.701736",
+        "utm": "22M 643553 9281077",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643553,
+        "utm_northing": 9281077,
+        "utm_hemisphere": "S",
+        "data": "04/02/2026",
+        "horario": "09:26",
+        "legenda": "Cava para colocar cabos",
+        "hash_md5": null,
+        "hash_sha256": "4c25474832077cd6155695ee3f9f0455794326586bb0c0700e588e0acba207a3",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70173638888889,
+          -6.502376666666667
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "ML8LYX63",
+    "dataCampo": "2026-02-04",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e terraplanagem ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Médio ",
+    "solo": "Argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entrorno composto por floresta nativa secundária.",
+    "obs": "Durante acompanhamento, não evidenciamos materialidade arqueológica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260204_092822",
+        "arquivo": "20260204_092822.jpg",
+        "caminho": "IMGS/20260204_092822.jpg",
+        "data": "04/02/2026",
+        "horario": "09:28",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "2ae0c8a52274c9b6b1c259e29f8a214e713f4685a3064d5ae4617cca3bb13d30"
+      }
+    ]
+  }
+}
