@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260202_150356.jpg",
+      "properties": {
+        "nome": "20260202_150356",
+        "arquivo": "20260202_150356.jpg",
+        "caminho": "IMGS/20260202_150356.jpg",
+        "lat": -6.4992600000000005,
+        "lon": -49.70385805555556,
+        "latlon": "-6.499260, -49.703858",
+        "utm": "22M 643319 9281422",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643319,
+        "utm_northing": 9281422,
+        "utm_hemisphere": "S",
+        "data": "02/02/2026",
+        "horario": "15:03",
+        "legenda": "Acompanhamento ",
+        "hash_md5": null,
+        "hash_sha256": "6bae084eea117e2ed9101e1e8754cac1b475df1848e2b74239812d7601cbf6d4",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70385805555556,
+          -6.4992600000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260202_150502.jpg",
+      "properties": {
+        "nome": "20260202_150502",
+        "arquivo": "20260202_150502.jpg",
+        "caminho": "IMGS/20260202_150502.jpg",
+        "lat": -6.49889,
+        "lon": -49.703845,
+        "latlon": "-6.498890, -49.703845",
+        "utm": "22M 643321 9281463",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643321,
+        "utm_northing": 9281463,
+        "utm_hemisphere": "S",
+        "data": "02/02/2026",
+        "horario": "15:05",
+        "legenda": "Terraplanagem ",
+        "hash_md5": null,
+        "hash_sha256": "56d80c80689f5e56ba38616ca582199e7525c84b8ee1ac4f6af3da839344d7d4",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703845,
+          -6.49889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260202_150513.jpg",
+      "properties": {
+        "nome": "20260202_150513",
+        "arquivo": "20260202_150513.jpg",
+        "caminho": "IMGS/20260202_150513.jpg",
+        "lat": -6.498878055555555,
+        "lon": -49.70388138888889,
+        "latlon": "-6.498878, -49.703881",
+        "utm": "22M 643317 9281464",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643317,
+        "utm_northing": 9281464,
+        "utm_hemisphere": "S",
+        "data": "02/02/2026",
+        "horario": "15:05",
+        "legenda": "Terraplanagem ",
+        "hash_md5": null,
+        "hash_sha256": "3fbe53ad9d8ad0691039721b884f696cdb20471676763761c2d1c0efd669faff",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70388138888889,
+          -6.498878055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260202_150556.jpg",
+      "properties": {
+        "nome": "20260202_150556",
+        "arquivo": "20260202_150556.jpg",
+        "caminho": "IMGS/20260202_150556.jpg",
+        "lat": -6.498863055555556,
+        "lon": -49.70384,
+        "latlon": "-6.498863, -49.703840",
+        "utm": "22M 643321 9281466",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643321,
+        "utm_northing": 9281466,
+        "utm_hemisphere": "S",
+        "data": "02/02/2026",
+        "horario": "15:05",
+        "legenda": "Terraplanagem ",
+        "hash_md5": null,
+        "hash_sha256": "01ef6d50208eec0a7d87bd3c0eb8fb497bb768cddc4de354535547a6c45a2f67",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70384,
+          -6.498863055555556
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MLBJ9E1O",
+    "dataCampo": "2026-02-06",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Terraplanagem ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida",
+    "relevo": "Média vertente ",
+    "solo": "Argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entrorno composto por floresta nativa secundária ",
+    "obs": "Durante acompanhamento, não foram evidenciados quaisquer materialidade aequeólogica. ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
