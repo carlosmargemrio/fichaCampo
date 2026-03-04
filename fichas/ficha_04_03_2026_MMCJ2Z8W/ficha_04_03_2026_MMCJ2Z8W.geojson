@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260304_080720.jpg",
+      "properties": {
+        "nome": "20260304_080720",
+        "arquivo": "20260304_080720.jpg",
+        "caminho": "IMGS/20260304_080720.jpg",
+        "lat": -6.501063333333334,
+        "lon": -49.704303333333336,
+        "latlon": "-6.501063, -49.704303",
+        "utm": "22M 643270 9281223",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643270,
+        "utm_northing": 9281223,
+        "utm_hemisphere": "S",
+        "data": "04/03/2026",
+        "horario": "08:07",
+        "legenda": "Acompanhamento ",
+        "hash_md5": null,
+        "hash_sha256": "e3cd613883fd6fb575966c10eaae55b76a91744301d8b7512bbcf21e16e3ae8b",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704303333333336,
+          -6.501063333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260304_081604.jpg",
+      "properties": {
+        "nome": "20260304_081604",
+        "arquivo": "20260304_081604.jpg",
+        "caminho": "IMGS/20260304_081604.jpg",
+        "lat": -6.501228333333334,
+        "lon": -49.704265,
+        "latlon": "-6.501228, -49.704265",
+        "utm": "22M 643274 9281205",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643274,
+        "utm_northing": 9281205,
+        "utm_hemisphere": "S",
+        "data": "04/03/2026",
+        "horario": "08:16",
+        "legenda": "Limpeza de bacia",
+        "hash_md5": null,
+        "hash_sha256": "1a25a6e87d383c0b529fb98b7a4e2e44686ef0bf08e788d216cdcdbf31159564",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704265,
+          -6.501228333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260304_083216.jpg",
+      "properties": {
+        "nome": "20260304_083216",
+        "arquivo": "20260304_083216.jpg",
+        "caminho": "IMGS/20260304_083216.jpg",
+        "lat": -6.501338055555555,
+        "lon": -49.70431472222222,
+        "latlon": "-6.501338, -49.704315",
+        "utm": "22M 643268 9281192",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643268,
+        "utm_northing": 9281192,
+        "utm_hemisphere": "S",
+        "data": "04/03/2026",
+        "horario": "08:32",
+        "legenda": "Limpeza de bacia",
+        "hash_md5": null,
+        "hash_sha256": "fd3215192fccf13195140f2c6b37ffa982c6f2bf819a35f8da2e8968e36cbd62",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70431472222222,
+          -6.501338055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260304_095554.jpg",
+      "properties": {
+        "nome": "20260304_095554",
+        "arquivo": "20260304_095554.jpg",
+        "caminho": "IMGS/20260304_095554.jpg",
+        "lat": -6.501336388888889,
+        "lon": -49.70444305555556,
+        "latlon": "-6.501336, -49.704443",
+        "utm": "22M 643254 9281193",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643254,
+        "utm_northing": 9281193,
+        "utm_hemisphere": "S",
+        "data": "04/03/2026",
+        "horario": "09:55",
+        "legenda": "Análise de perfil ",
+        "hash_md5": null,
+        "hash_sha256": "1a1f0e63916fa2f39c1c84ac4b79d80c226134faa078184e5f96ece5710b8641",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70444305555556,
+          -6.501336388888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MMCJ2Z8W",
+    "dataCampo": "2026-03-04",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Limpeza de bacia e carregamento de matéria orgânica ",
+    "clima": "nublado",
+    "vegetacao": "Floresta nativa",
+    "relevo": "Baixo relevo",
+    "solo": "Latossolo argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Atividade monitorada: limpeza de caixa/bacia para contenção d'água e carregamento de matéria orgânica na área de pilha para reposição de material estéril (PDME) o entorno da área é composto por floresta tropical nativa.",
+    "obs": "Durante acompanhamento das atividades, não identificamos quaisquer artefato.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
