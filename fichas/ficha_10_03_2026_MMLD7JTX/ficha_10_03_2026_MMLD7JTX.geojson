@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260303_080153.jpg",
+      "properties": {
+        "nome": "20260303_080153",
+        "arquivo": "20260303_080153.jpg",
+        "caminho": "IMGS/20260303_080153.jpg",
+        "lat": -6.500603333333333,
+        "lon": -49.70119638888889,
+        "latlon": "-6.500603, -49.701196",
+        "utm": "22M 643613 9281273",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643613,
+        "utm_northing": 9281273,
+        "utm_hemisphere": "S",
+        "data": "03/03/2026",
+        "horario": "08:01",
+        "legenda": "Abertura de sump",
+        "hash_md5": null,
+        "hash_sha256": "ad36cc651b6e3a37b73ae8e2ad9087b5c7993ba702ecf8c5d62ca9686541500a",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70119638888889,
+          -6.500603333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260303_102210.jpg",
+      "properties": {
+        "nome": "20260303_102210",
+        "arquivo": "20260303_102210.jpg",
+        "caminho": "IMGS/20260303_102210.jpg",
+        "lat": -6.500663333333334,
+        "lon": -49.70118138888889,
+        "latlon": "-6.500663, -49.701181",
+        "utm": "22M 643615 9281266",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643615,
+        "utm_northing": 9281266,
+        "utm_hemisphere": "S",
+        "data": "03/03/2026",
+        "horario": "10:22",
+        "legenda": "Abertura de sump",
+        "hash_md5": null,
+        "hash_sha256": "0dee9e6a75b25b60b31e804ec91eeacf391f273be6ba8234883859cac7a2b496",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70118138888889,
+          -6.500663333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260303_083518.jpg",
+      "properties": {
+        "nome": "20260303_083518",
+        "arquivo": "20260303_083518.jpg",
+        "caminho": "IMGS/20260303_083518.jpg",
+        "lat": -6.500623333333333,
+        "lon": -49.70158333333334,
+        "latlon": "-6.500623, -49.701583",
+        "utm": "22M 643571 9281271",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643571,
+        "utm_northing": 9281271,
+        "utm_hemisphere": "S",
+        "data": "03/03/2026",
+        "horario": "08:35",
+        "legenda": "Abertura de sump",
+        "hash_md5": null,
+        "hash_sha256": "31777123258f099697534b5e619b1571d3c6c68436cb786f530ecb8adb107236",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70158333333334,
+          -6.500623333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260303_102159.jpg",
+      "properties": {
+        "nome": "20260303_102159",
+        "arquivo": "20260303_102159.jpg",
+        "caminho": "IMGS/20260303_102159.jpg",
+        "lat": -6.5005283333333335,
+        "lon": -49.70111833333333,
+        "latlon": "-6.500528, -49.701118",
+        "utm": "22M 643622 9281281",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643622,
+        "utm_northing": 9281281,
+        "utm_hemisphere": "S",
+        "data": "03/03/2026",
+        "horario": "10:21",
+        "legenda": "Abertura de sump",
+        "hash_md5": null,
+        "hash_sha256": "8210bb840c2abb0c6856d3bef32a6f5ccb328dc0fc439f4c2178b899fad7fc38",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70111833333333,
+          -6.5005283333333335
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MMLD7JTX",
+    "dataCampo": "2026-03-10",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cicero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Abertura de sump",
+    "clima": "nublado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Baixa vertente ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta tropical nativa ",
+    "obs": "Durante acompanhamento das atividades, não identificamos quaisquer artefato.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
