@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260313_132330.jpg",
+      "properties": {
+        "nome": "20260313_132330",
+        "arquivo": "20260313_132330.jpg",
+        "caminho": "IMGS/20260313_132330.jpg",
+        "lat": -6.503178055555556,
+        "lon": -49.700925000000005,
+        "latlon": "-6.503178, -49.700925",
+        "utm": "22M 643643 9280988",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643643,
+        "utm_northing": 9280988,
+        "utm_hemisphere": "S",
+        "data": "13/03/2026",
+        "horario": "13:23",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "7c9960d32a1baa71c44e781b198358591037bffd68efd35a032d0864823bee70",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.700925000000005,
+          -6.503178055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260313_131542.jpg",
+      "properties": {
+        "nome": "20260313_131542",
+        "arquivo": "20260313_131542.jpg",
+        "caminho": "IMGS/20260313_131542.jpg",
+        "lat": -6.503301388888889,
+        "lon": -49.70102638888889,
+        "latlon": "-6.503301, -49.701026",
+        "utm": "22M 643631 9280974",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643631,
+        "utm_northing": 9280974,
+        "utm_hemisphere": "S",
+        "data": "13/03/2026",
+        "horario": "13:15",
+        "legenda": "Abertura de vala",
+        "hash_md5": null,
+        "hash_sha256": "3cd94e15d124e7b128703568d7667d24e7aadec496c45f701d80b605762200af",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70102638888889,
+          -6.503301388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260313_132436.jpg",
+      "properties": {
+        "nome": "20260313_132436",
+        "arquivo": "20260313_132436.jpg",
+        "caminho": "IMGS/20260313_132436.jpg",
+        "lat": -6.503206666666666,
+        "lon": -49.70094805555556,
+        "latlon": "-6.503207, -49.700948",
+        "utm": "22M 643640 9280985",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643640,
+        "utm_northing": 9280985,
+        "utm_hemisphere": "S",
+        "data": "13/03/2026",
+        "horario": "13:24",
+        "legenda": "Abertura de vala",
+        "hash_md5": null,
+        "hash_sha256": "0bc453e709ef404759606ef30b288415e3357cf815d2b87cbe996cd53e8747a3",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70094805555556,
+          -6.503206666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260313_133103.jpg",
+      "properties": {
+        "nome": "20260313_133103",
+        "arquivo": "20260313_133103.jpg",
+        "caminho": "IMGS/20260313_133103.jpg",
+        "lat": -6.5032113888888885,
+        "lon": -49.70107638888889,
+        "latlon": "-6.503211, -49.701076",
+        "utm": "22M 643626 9280984",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643626,
+        "utm_northing": 9280984,
+        "utm_hemisphere": "S",
+        "data": "13/03/2026",
+        "horario": "13:31",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "0025002e606b9308ea1013018d6de5f6107d6b6137acd076f64006291f1c8e21",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70107638888889,
+          -6.5032113888888885
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MMRQPA6C",
+    "dataCampo": "2026-03-13",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Abertura de vala",
+    "clima": "nublado",
+    "vegetacao": "Floresta nativa ",
+    "relevo": "Média vertente ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de floresta nativa com relevo em média vertente.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos quaisquer artefato arqueológico do passado ou do presente.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
