@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260319_085119.jpg",
+      "properties": {
+        "nome": "20260319_085119",
+        "arquivo": "20260319_085119.jpg",
+        "caminho": "IMGS/20260319_085119.jpg",
+        "lat": -6.499563055555556,
+        "lon": -49.70105305555556,
+        "latlon": "-6.499563, -49.701053",
+        "utm": "22M 643630 9281388",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643630,
+        "utm_northing": 9281388,
+        "utm_hemisphere": "S",
+        "data": "19/03/2026",
+        "horario": "08:51",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "1def2a3bfad0f13c0e611543e70107910be964b888ff61a66840e0a0970090a2",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70105305555556,
+          -6.499563055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260319_085108.jpg",
+      "properties": {
+        "nome": "20260319_085108",
+        "arquivo": "20260319_085108.jpg",
+        "caminho": "IMGS/20260319_085108.jpg",
+        "lat": -6.499943055555556,
+        "lon": -49.70120305555556,
+        "latlon": "-6.499943, -49.701203",
+        "utm": "22M 643613 9281346",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643613,
+        "utm_northing": 9281346,
+        "utm_hemisphere": "S",
+        "data": "19/03/2026",
+        "horario": "08:51",
+        "legenda": "Manutenção de acesaos",
+        "hash_md5": null,
+        "hash_sha256": "d3286b1637651c0fd8755aa20b3a771a15309fc3d3045854adec11017f2e265e",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70120305555556,
+          -6.499943055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260319_085152.jpg",
+      "properties": {
+        "nome": "20260319_085152",
+        "arquivo": "20260319_085152.jpg",
+        "caminho": "IMGS/20260319_085152.jpg",
+        "lat": -6.499489722222222,
+        "lon": -49.701195000000006,
+        "latlon": "-6.499490, -49.701195",
+        "utm": "22M 643614 9281396",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643614,
+        "utm_northing": 9281396,
+        "utm_hemisphere": "S",
+        "data": "19/03/2026",
+        "horario": "08:51",
+        "legenda": "Manutenção de acessos ",
+        "hash_md5": null,
+        "hash_sha256": "66b3ea7655d33536619b545a88c3b818c046b921d619e706075100d3cea32afd",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.701195000000006,
+          -6.499489722222222
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MMY5S7Q3",
+    "dataCampo": "2026-03-19",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Manutenção de acessos",
+    "clima": "nublado",
+    "vegetacao": "Área suprimida/estrada",
+    "relevo": "Baixo relevo ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida/estrada, com entorno composto por mata de reserva ecológica ",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260319_085426",
+        "arquivo": "20260319_085426.jpg",
+        "caminho": "IMGS/20260319_085426.jpg",
+        "data": "19/03/2026",
+        "horario": "08:54",
+        "legenda": "Manutenção de acessos ",
+        "hash_sha256": "606a1810ae437f6e8db786ac05cd2935ea3d145a6050a3f05c50ce1a21acd2bd"
+      }
+    ]
+  }
+}
