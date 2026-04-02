@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260302_080721.jpg",
+      "properties": {
+        "nome": "20260302_080721",
+        "arquivo": "20260302_080721.jpg",
+        "caminho": "IMGS/20260302_080721.jpg",
+        "lat": -6.50089,
+        "lon": -49.70156305555556,
+        "latlon": "-6.500890, -49.701563",
+        "utm": "22M 643573 9281241",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643573,
+        "utm_northing": 9281241,
+        "utm_hemisphere": "S",
+        "data": "02/03/2026",
+        "horario": "08:07",
+        "legenda": "Arqueólogo acompanhando ",
+        "hash_md5": null,
+        "hash_sha256": "565e1e5c8d3ecee3be6c155a211e65069e5074f3febcc10a0a61b8392868bfc7",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70156305555556,
+          -6.50089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260302_080711.jpg",
+      "properties": {
+        "nome": "20260302_080711",
+        "arquivo": "20260302_080711.jpg",
+        "caminho": "IMGS/20260302_080711.jpg",
+        "lat": -6.500876388888889,
+        "lon": -49.70156305555556,
+        "latlon": "-6.500876, -49.701563",
+        "utm": "22M 643573 9281243",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643573,
+        "utm_northing": 9281243,
+        "utm_hemisphere": "S",
+        "data": "02/03/2026",
+        "horario": "08:07",
+        "legenda": "Melhoramento de acessos ",
+        "hash_md5": null,
+        "hash_sha256": "9e61355c845f166c8b40d69cc44ff6ebb8755eaf6f76575d776da6566fb047c4",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70156305555556,
+          -6.500876388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260302_080702.jpg",
+      "properties": {
+        "nome": "20260302_080702",
+        "arquivo": "20260302_080702.jpg",
+        "caminho": "IMGS/20260302_080702.jpg",
+        "lat": -6.500801388888889,
+        "lon": -49.70156305555556,
+        "latlon": "-6.500801, -49.701563",
+        "utm": "22M 643573 9281251",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643573,
+        "utm_northing": 9281251,
+        "utm_hemisphere": "S",
+        "data": "02/03/2026",
+        "horario": "08:07",
+        "legenda": "Melhoramento de acessos ",
+        "hash_md5": null,
+        "hash_sha256": "2d42f935f573ecfc4f4ff4da5ccad0ddec1430cc08a0014963ecfd2e4ba431e3",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70156305555556,
+          -6.500801388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260302_080737.jpg",
+      "properties": {
+        "nome": "20260302_080737",
+        "arquivo": "20260302_080737.jpg",
+        "caminho": "IMGS/20260302_080737.jpg",
+        "lat": -6.500918333333333,
+        "lon": -49.701593055555556,
+        "latlon": "-6.500918, -49.701593",
+        "utm": "22M 643569 9281238",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643569,
+        "utm_northing": 9281238,
+        "utm_hemisphere": "S",
+        "data": "02/03/2026",
+        "horario": "08:07",
+        "legenda": "Melhoramento de acessos ",
+        "hash_md5": null,
+        "hash_sha256": "fcc4d6fa068527f1964310fdb05093d21b8fc07c7c0bfa14f2270007e3574dc5",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.701593055555556,
+          -6.500918333333333
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MM9RLGR1",
+    "dataCampo": "2026-03-02",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Melhoramento de acessos ",
+    "clima": "nublado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Baixa vertente ",
+    "solo": "Latossolo argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "A área desmatada tem entorno composto por floresta nativa que passou por processo de queimadas e se recupera.",
+    "obs": "Durante acompanhamento das atividades para melhoramento de acessos, não evidenciamos artefatos arqueológico.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
