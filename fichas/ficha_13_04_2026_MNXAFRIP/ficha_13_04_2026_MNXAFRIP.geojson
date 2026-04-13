@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260413_090148.jpg",
+      "properties": {
+        "nome": "20260413_090148",
+        "arquivo": "20260413_090148.jpg",
+        "caminho": "IMGS/20260413_090148.jpg",
+        "lat": -6.49963,
+        "lon": -49.701573055555556,
+        "latlon": "-6.499630, -49.701573",
+        "utm": "22M 643572 9281381",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643572,
+        "utm_northing": 9281381,
+        "utm_hemisphere": "S",
+        "data": "13/04/2026",
+        "horario": "09:01",
+        "legenda": "Supressão de vegetação ",
+        "hash_md5": null,
+        "hash_sha256": "56a12d5d3a12ac81b46fd8d0d986ed755eb586d17eadda4692bcf9c9aab7afd8",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.701573055555556,
+          -6.49963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260413_090226.jpg",
+      "properties": {
+        "nome": "20260413_090226",
+        "arquivo": "20260413_090226.jpg",
+        "caminho": "IMGS/20260413_090226.jpg",
+        "lat": -6.499518055555556,
+        "lon": -49.701345,
+        "latlon": "-6.499518, -49.701345",
+        "utm": "22M 643597 9281393",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643597,
+        "utm_northing": 9281393,
+        "utm_hemisphere": "S",
+        "data": "13/04/2026",
+        "horario": "09:02",
+        "legenda": "Supressão de vegetação ",
+        "hash_md5": null,
+        "hash_sha256": "0130b772c86f0207238f2e52fafb55f6bb256f153f096c62c09bae997cd8251b",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.701345,
+          -6.499518055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260413_090245.jpg",
+      "properties": {
+        "nome": "20260413_090245",
+        "arquivo": "20260413_090245.jpg",
+        "caminho": "IMGS/20260413_090245.jpg",
+        "lat": -6.499474722222223,
+        "lon": -49.701324722222225,
+        "latlon": "-6.499475, -49.701325",
+        "utm": "22M 643599 9281398",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643599,
+        "utm_northing": 9281398,
+        "utm_hemisphere": "S",
+        "data": "13/04/2026",
+        "horario": "09:02",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "a6c373e721c0a3938c6bc989eb347156492cbd047393bcc5d61c96973f8e04a9",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.701324722222225,
+          -6.499474722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260413_090306.jpg",
+      "properties": {
+        "nome": "20260413_090306",
+        "arquivo": "20260413_090306.jpg",
+        "caminho": "IMGS/20260413_090306.jpg",
+        "lat": -6.4994233333333336,
+        "lon": -49.70126833333334,
+        "latlon": "-6.499423, -49.701268",
+        "utm": "22M 643606 9281403",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643606,
+        "utm_northing": 9281403,
+        "utm_hemisphere": "S",
+        "data": "13/04/2026",
+        "horario": "09:03",
+        "legenda": "Supressão de vegetação ",
+        "hash_md5": null,
+        "hash_sha256": "cda680d7951069d2d06b18b85e096dc391f7c5cac57e482ff6aa8977149ff615",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70126833333334,
+          -6.4994233333333336
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MNXAFRIP",
+    "dataCampo": "2026-04-13",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão de vegetação ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida/acesso ",
+    "relevo": "Acidentado/mirante",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de acesso com entorno composto por floresta manejada/área de reserva.",
+    "obs": "Durante acompanhamento, não evidênciamos materialidade aequeólogica referente a humanos pretéritos.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
