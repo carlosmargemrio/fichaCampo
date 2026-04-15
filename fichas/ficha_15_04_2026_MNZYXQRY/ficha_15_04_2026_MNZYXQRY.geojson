@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "20260415_082312.jpg",
+      "properties": {
+        "nome": "20260415_082312",
+        "arquivo": "20260415_082312.jpg",
+        "caminho": "IMGS/20260415_082312.jpg",
+        "lat": -6.501079722222222,
+        "lon": -49.70430166666667,
+        "latlon": "-6.501080, -49.704302",
+        "utm": "22M 643270 9281221",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643270,
+        "utm_northing": 9281221,
+        "utm_hemisphere": "S",
+        "data": "15/04/2026",
+        "horario": "08:23",
+        "legenda": "Limpeza de sump ",
+        "hash_md5": null,
+        "hash_sha256": "e84405bba067f509ffa0cfd9fa9fed1b56005f76ac4bb47d3c275bb05541e1f9",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70430166666667,
+          -6.501079722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260415_083818.jpg",
+      "properties": {
+        "nome": "20260415_083818",
+        "arquivo": "20260415_083818.jpg",
+        "caminho": "IMGS/20260415_083818.jpg",
+        "lat": -6.501101666666667,
+        "lon": -49.70429805555556,
+        "latlon": "-6.501102, -49.704298",
+        "utm": "22M 643270 9281219",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643270,
+        "utm_northing": 9281219,
+        "utm_hemisphere": "S",
+        "data": "15/04/2026",
+        "horario": "08:38",
+        "legenda": "Acompanhamento de atividade ",
+        "hash_md5": null,
+        "hash_sha256": "342c0b6983df4f6facd114eecb882b9bf8c9c1be24f7af26fdf85574af618385",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70429805555556,
+          -6.501101666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260415_093304.jpg",
+      "properties": {
+        "nome": "20260415_093304",
+        "arquivo": "20260415_093304.jpg",
+        "caminho": "IMGS/20260415_093304.jpg",
+        "lat": -6.502136388888889,
+        "lon": -49.70533833333334,
+        "latlon": "-6.502136, -49.705338",
+        "utm": "22M 643155 9281104",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643155,
+        "utm_northing": 9281104,
+        "utm_hemisphere": "S",
+        "data": "15/04/2026",
+        "horario": "09:33",
+        "legenda": "Carregamento de matéria orgânica ",
+        "hash_md5": null,
+        "hash_sha256": "c82b110937b7f0e079d3dc024fe72cbfd403264d0f0d74933da3bf3935cf36c3",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70533833333334,
+          -6.502136388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20260415_093332.jpg",
+      "properties": {
+        "nome": "20260415_093332",
+        "arquivo": "20260415_093332.jpg",
+        "caminho": "IMGS/20260415_093332.jpg",
+        "lat": -6.502118333333334,
+        "lon": -49.70557305555556,
+        "latlon": "-6.502118, -49.705573",
+        "utm": "22M 643129 9281107",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643129,
+        "utm_northing": 9281107,
+        "utm_hemisphere": "S",
+        "data": "15/04/2026",
+        "horario": "09:33",
+        "legenda": "Carregamento de matéria orgânica ",
+        "hash_md5": null,
+        "hash_sha256": "9de95005a20f239f9156a0fc06fcd147bf44cdb536248b309961c76d5be69926",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70557305555556,
+          -6.502118333333334
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MNZYXQRY",
+    "dataCampo": "2026-04-15",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Limpeza de sump",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Levemente acidentado",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta manejada e pastagem.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
