@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MOA2K8X8",
+    "dataCampo": "2026-04-22",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno/talude",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Acidentado a meio acidentado",
+    "solo": "Latossolo argiloso com conglomerados pequenos, médios e grandes.",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por vegetação manejada, árvores plantadas, replantadas e pastagem. ",
+    "obs": "Durante acompanhamento, não evidenciamos materialidade arqueológica. ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260422_082536",
+        "arquivo": "20260422_082536.jpg",
+        "caminho": "IMGS/20260422_082536.jpg",
+        "data": "22/04/2026",
+        "horario": "08:25",
+        "legenda": "Averiguação de perfil ",
+        "hash_sha256": "b3722974a241e11060523865028f948ce57ca1029a7a438a1dcdbd08e5f323e4"
+      },
+      {
+        "nome": "20260422_081732",
+        "arquivo": "20260422_081732.jpg",
+        "caminho": "IMGS/20260422_081732.jpg",
+        "data": "22/04/2026",
+        "horario": "08:17",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "b160e91e5b6376945cd103126128df4e15ef7c2088bba25b8c0c554fc7e11e8a"
+      },
+      {
+        "nome": "20260422_081354",
+        "arquivo": "20260422_081354.jpg",
+        "caminho": "IMGS/20260422_081354.jpg",
+        "data": "22/04/2026",
+        "horario": "08:13",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "dc446613a80179709bcab146b67b46991ad796fd7ce062d36b4b02dd309f5083"
+      },
+      {
+        "nome": "20260422_081338",
+        "arquivo": "20260422_081338.jpg",
+        "caminho": "IMGS/20260422_081338.jpg",
+        "data": "22/04/2026",
+        "horario": "08:13",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "20bbb2e9c67ce01b2ec7fd722262717d6c8d574f67940390f9bd6e1ab8bcf909"
+      }
+    ]
+  }
+}
