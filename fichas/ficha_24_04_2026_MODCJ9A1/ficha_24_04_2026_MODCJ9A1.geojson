@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MODCJ9A1",
+    "dataCampo": "2026-04-24",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno/talude",
+    "clima": "nublado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Baixo relevo, levemente acidentado ",
+    "solo": "Latossolo argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno de mata manejada composta por árvores da região e capins.",
+    "obs": "Durante acompanhamento, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "IMG-20260424-WA0012",
+        "arquivo": "IMG-20260424-WA0012.jpg",
+        "caminho": "IMGS/IMG-20260424-WA0012.jpg",
+        "data": "24/04/2026",
+        "horario": "07:00",
+        "legenda": "Carregamento de matéria orgânica ",
+        "hash_sha256": "fef71805a109ec4afcae7347b721694a73dc2f70506062b616a50e9ebe1a70e4"
+      },
+      {
+        "nome": "IMG-20260424-WA0010",
+        "arquivo": "IMG-20260424-WA0010.jpg",
+        "caminho": "IMGS/IMG-20260424-WA0010.jpg",
+        "data": "24/04/2026",
+        "horario": "07:00",
+        "legenda": "Carregamento de matéria orgânica ",
+        "hash_sha256": "e1fe1af0865c6c2a8843e5b01a68b6f963d1a1e1810300d12115694fc09d4df6"
+      },
+      {
+        "nome": "IMG-20260424-WA0011",
+        "arquivo": "IMG-20260424-WA0011.jpg",
+        "caminho": "IMGS/IMG-20260424-WA0011.jpg",
+        "data": "24/04/2026",
+        "horario": "07:00",
+        "legenda": "Carregamento de matéria orgânica ",
+        "hash_sha256": "a04ea2f59e125227425b1a3dd7543710d48f5c1a801c94a052b82eec482ad3b0"
+      },
+      {
+        "nome": "IMG-20260416-WA0036",
+        "arquivo": "IMG-20260416-WA0036.jpg",
+        "caminho": "IMGS/IMG-20260416-WA0036.jpg",
+        "data": "24/04/2026",
+        "horario": "07:00",
+        "legenda": "Revolvimento de solo",
+        "hash_sha256": "b6a21126380b98f0acd2f63797d4395f5be8b8eae5d006e84c703bc9d77cc68d"
+      }
+    ]
+  }
+}
