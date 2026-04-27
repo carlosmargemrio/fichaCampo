@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MOHF13PC",
+    "dataCampo": "2026-04-27",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Manutenção de acessos ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida/estrada",
+    "relevo": "Baixo relevo",
+    "solo": "Latossolo argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com interno composto por árvores da região e pastagem.",
+    "obs": "No período diário de acompanhamento, não evidênciamos artefatos arqueológico ou quaisquer vestígio que remonte a períodos considerados arqueológicamente. ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260427_091039",
+        "arquivo": "20260427_091039.jpg",
+        "caminho": "IMGS/20260427_091039.jpg",
+        "data": "27/04/2026",
+        "horario": "09:10",
+        "legenda": "Averiguação de perfil ",
+        "hash_sha256": "6007c01fc4a10120bb7675ffc94375cc8ff0034dea710ef4dccfaec49b72d849"
+      },
+      {
+        "nome": "20260427_090626",
+        "arquivo": "20260427_090626.jpg",
+        "caminho": "IMGS/20260427_090626.jpg",
+        "data": "27/04/2026",
+        "horario": "09:06",
+        "legenda": "Corte de terreno",
+        "hash_sha256": "8ee626fb4342775a090f8ae521dd095240f58c580ea19045c97d307282280364"
+      },
+      {
+        "nome": "20260427_090559",
+        "arquivo": "20260427_090559.jpg",
+        "caminho": "IMGS/20260427_090559.jpg",
+        "data": "27/04/2026",
+        "horario": "09:05",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "7244c949645ccda35e39428ae476169e2db41dbe312a7e4587ac316087ecef39"
+      },
+      {
+        "nome": "20260427_090611",
+        "arquivo": "20260427_090611.jpg",
+        "caminho": "IMGS/20260427_090611.jpg",
+        "data": "27/04/2026",
+        "horario": "09:06",
+        "legenda": "Corte de terreno ",
+        "hash_sha256": "71a1d9e33b3997a5d0f0b9245c47cb6a7549b1568a29fd92219697e0053175f4"
+      }
+    ]
+  }
+}
