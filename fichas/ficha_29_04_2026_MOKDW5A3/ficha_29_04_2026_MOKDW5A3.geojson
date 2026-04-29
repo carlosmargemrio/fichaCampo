@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MOKDW5A3",
+    "dataCampo": "2026-04-29",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Revolvimento de solo e carregamento de matéria orgânica ",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entrorno composto por floresta manejada, detalhes para árvores de pequeno porte e capinzais.",
+    "obs": "Durante acompanhando, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260429_090141",
+        "arquivo": "20260429_090141.jpg",
+        "caminho": "IMGS/20260429_090141.jpg",
+        "data": "29/04/2026",
+        "horario": "09:01",
+        "legenda": "Revolvimento de solo",
+        "hash_sha256": "6db3cbc6cb45caf232751b71bbbe30a73ecac79f102b34e2dbedd0bfedc8d591"
+      },
+      {
+        "nome": "20260429_084926",
+        "arquivo": "20260429_084926.jpg",
+        "caminho": "IMGS/20260429_084926.jpg",
+        "data": "29/04/2026",
+        "horario": "08:49",
+        "legenda": "Revolvimento de solo ",
+        "hash_sha256": "bdbe4c8d79931abebd45826bfdfc9f4bfdb7208f5b60f6520ab46ad164948639"
+      },
+      {
+        "nome": "20260429_084209",
+        "arquivo": "20260429_084209.jpg",
+        "caminho": "IMGS/20260429_084209.jpg",
+        "data": "29/04/2026",
+        "horario": "08:42",
+        "legenda": "Acompanhamento de atividade ",
+        "hash_sha256": "fce366157b8d8511daee1555b69531c18c7456ff9906c39ed2c3f7f127acad00"
+      },
+      {
+        "nome": "20260429_084001",
+        "arquivo": "20260429_084001.jpg",
+        "caminho": "IMGS/20260429_084001.jpg",
+        "data": "29/04/2026",
+        "horario": "08:40",
+        "legenda": "Revolvimento de solo ",
+        "hash_sha256": "fc95b348241f63de06bc5d10cf144fb4a1fc22534afa6293d314518b482cf573"
+      }
+    ]
+  }
+}
