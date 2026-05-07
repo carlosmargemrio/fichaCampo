@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MOVRK16F",
+    "dataCampo": "2026-05-07",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": " Limpeza de sump",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta manejada ",
+    "obs": "Durante acompanhando não evidênciamos materialidade aequeólogica ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260305_083930",
+        "arquivo": "20260305_083930.jpg",
+        "caminho": "IMGS/20260305_083930.jpg",
+        "data": "05/03/2026",
+        "horario": "08:39",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "46a61afc1261f4ac39db9a1622d2dedf514601ab0f1a86f877f73a71db0fbf18"
+      },
+      {
+        "nome": "20260305_083905",
+        "arquivo": "20260305_083905.jpg",
+        "caminho": "IMGS/20260305_083905.jpg",
+        "data": "05/03/2026",
+        "horario": "08:39",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "3df448bad44a45fd4d552c3619d0343a68bfc785aaff16b87c3c13928bde15b6"
+      },
+      {
+        "nome": "20260305_083842",
+        "arquivo": "20260305_083842.jpg",
+        "caminho": "IMGS/20260305_083842.jpg",
+        "data": "05/03/2026",
+        "horario": "08:38",
+        "legenda": "Limpeza de sump ",
+        "hash_sha256": "4b612a2c9fe2e181f0fa0997296d66f45334816fbf01cf4993d2d5c0762ad53e"
+      },
+      {
+        "nome": "20260305_083940",
+        "arquivo": "20260305_083940.jpg",
+        "caminho": "IMGS/20260305_083940.jpg",
+        "data": "05/03/2026",
+        "horario": "08:39",
+        "legenda": "Limpeza de sump ",
+        "hash_sha256": "4cd0f24aa6a1ecec39f563b3a9a814d57a695dbaa2454c0ac1b9c21562f56f2d"
+      }
+    ]
+  }
+}
