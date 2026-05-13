@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "IMG_20260403_150525.jpg",
+      "properties": {
+        "nome": "IMG_20260403_150525",
+        "arquivo": "IMG_20260403_150525.jpg",
+        "caminho": "IMGS/IMG_20260403_150525.jpg",
+        "lat": -9.417630555555554,
+        "lon": -40.509569444444445,
+        "latlon": "-9.417631, -40.509569",
+        "utm": "24L 334254 8958618",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 334254,
+        "utm_northing": 8958618,
+        "utm_hemisphere": "S",
+        "data": "03/04/2026",
+        "horario": "15:05",
+        "legenda": "Hghgf",
+        "hash_md5": null,
+        "hash_sha256": "c2b98ae15a98988dd6a9e2a6d9b886f8e6c5b649d6c3a94b5848f9cb9f877b5f",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.509569444444445,
+          -9.417630555555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_20260311_193728.jpg",
+      "properties": {
+        "nome": "IMG_20260311_193728",
+        "arquivo": "IMG_20260311_193728.jpg",
+        "caminho": "IMGS/IMG_20260311_193728.jpg",
+        "lat": -9.445791666666667,
+        "lon": -40.5265,
+        "latlon": "-9.445792, -40.526500",
+        "utm": "24L 332408 8955495",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 332408,
+        "utm_northing": 8955495,
+        "utm_hemisphere": "S",
+        "data": "11/03/2026",
+        "horario": "19:34",
+        "legenda": "Lkj",
+        "hash_md5": null,
+        "hash_sha256": "ec80d94f4a2d9509dd150d084b75aa73e3a494620234e54e0bfc7267e43dc258",
+        "origem_coordenadas": "EXIF",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5265,
+          -9.445791666666667
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MP4H2ZDN",
+    "dataCampo": "2026-05-16",
+    "horaIni": "16:48",
+    "horaFim": "17:18",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Hggug",
+    "coordCampo": "Ghhg",
+    "arqResp": "Hfgug",
+    "tipoAcao": "Hggug",
+    "clima": "garoa",
+    "vegetacao": "Gfhgf",
+    "relevo": "Hghhg",
+    "solo": "Hghhf",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Ihiu",
+    "obs": "Ytuu",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
