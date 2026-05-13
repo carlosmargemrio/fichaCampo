@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "IMG_20260413_181238.jpg",
+      "properties": {
+        "nome": "IMG_20260413_181238",
+        "arquivo": "IMG_20260413_181238.jpg",
+        "caminho": "IMGS/IMG_20260413_181238.jpg",
+        "lat": -9.445805555555555,
+        "lon": -40.526488888888885,
+        "latlon": "-9.445806, -40.526489",
+        "utm": "24L 332409 8955494",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 332409,
+        "utm_northing": 8955494,
+        "utm_hemisphere": "S",
+        "data": "13/04/2026",
+        "horario": "18:12",
+        "legenda": "Nvjhh",
+        "hash_md5": null,
+        "hash_sha256": "ced154e756c082ba42eee9ae652aa2c0aea83c922b753ddd57d698aa7bb71819",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.526488888888885,
+          -9.445805555555555
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MP4ILQIN",
+    "dataCampo": "2026-05-17",
+    "horaIni": "17:31",
+    "horaFim": "19:31",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Jggx",
+    "coordCampo": "Kbvjh",
+    "arqResp": "Jhvv",
+    "tipoAcao": "Hghhf",
+    "clima": "chuva",
+    "vegetacao": "Jghjg",
+    "relevo": "Bvbh",
+    "solo": "Jhjj",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Khb",
+    "obs": "Jgg",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
