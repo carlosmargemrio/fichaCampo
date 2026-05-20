@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MPEJOMJR",
+    "dataCampo": "2026-05-20",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Limpeza de sump",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta manejada ",
+    "obs": "Durante acompanhamento das atividades não evidênciamos materialidade aequeólogica ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260519_102344",
+        "arquivo": "20260519_102344.jpg",
+        "caminho": "IMGS/20260519_102344.jpg",
+        "data": "19/05/2026",
+        "horario": "10:23",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "fdc47f49964a1fd1d9c08bdc933fd29562261078b54985b4d38677a59ca05bf8",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260519_102448",
+        "arquivo": "20260519_102448.jpg",
+        "caminho": "IMGS/20260519_102448.jpg",
+        "data": "19/05/2026",
+        "horario": "10:24",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "e70dbb468f7df8999242df2ace04e208ba3d8a47e9dc54afe73abb8e437ec0ab",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260519_102457",
+        "arquivo": "20260519_102457.jpg",
+        "caminho": "IMGS/20260519_102457.jpg",
+        "data": "19/05/2026",
+        "horario": "10:24",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "6364112c993ba28dad2b1249b5e96c4714bcbf5738db600a3214746371543cf3",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260519_102507",
+        "arquivo": "20260519_102507.jpg",
+        "caminho": "IMGS/20260519_102507.jpg",
+        "data": "19/05/2026",
+        "horario": "10:25",
+        "legenda": "Limpeza de sump",
+        "hash_sha256": "8d99c70c83f845b21b77d13f3f9eac8c8693612725129eed9eb516c740e58453",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      }
+    ]
+  }
+}
