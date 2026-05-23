@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MPIAH6WB",
+    "dataCampo": "2026-05-22",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Ampliação de acessos",
+    "clima": "ensolarado",
+    "vegetacao": "Área suprimida ",
+    "relevo": "Muito acidentado ",
+    "solo": "Latossolo argiloso, ferroso",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área suprimida com entorno composto por floresta manejada ",
+    "obs": "Durante acompanhamento das atividades não evidênciamos materialidade aequeólogica ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260521_110753",
+        "arquivo": "20260521_110753.jpg",
+        "caminho": "IMGS/20260521_110753.jpg",
+        "data": "21/05/2026",
+        "horario": "11:07",
+        "legenda": "Acompanhamento de atividades ",
+        "hash_sha256": "961ded0380dda6aed0bebaf8c7b0aaf266cee65e66960cf0f007a8402c0f060e",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260521_104258",
+        "arquivo": "20260521_104258.jpg",
+        "caminho": "IMGS/20260521_104258.jpg",
+        "data": "21/05/2026",
+        "horario": "10:42",
+        "legenda": "Revolvimento de solo",
+        "hash_sha256": "18bf2405bff355459e65861dcee701175367cf02653aae7ce9188f7ab4c09c0e",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260521_104152",
+        "arquivo": "20260521_104152.jpg",
+        "caminho": "IMGS/20260521_104152.jpg",
+        "data": "21/05/2026",
+        "horario": "10:41",
+        "legenda": "Revolvimento de solo ",
+        "hash_sha256": "9b44bc3f5b75d53b8428ea9a27a8aee21dfca1cffccdbfc745871192d833de97",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260521_103236",
+        "arquivo": "20260521_103236.jpg",
+        "caminho": "IMGS/20260521_103236.jpg",
+        "data": "21/05/2026",
+        "horario": "10:32",
+        "legenda": "Revolvimento de solo ",
+        "hash_sha256": "56bfd01aadae23814b1f2ef9b6fdaa6c9d147db075119c9350d6c66c371f8c37",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      }
+    ]
+  }
+}
