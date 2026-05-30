@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MPRL89H8",
+    "dataCampo": "2026-05-29",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão de vegetação ",
+    "clima": "ensolarado",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem composta por capim e gramíneas ",
+    "obs": "Durante acompanhamento das atividades não evidênciamos materialidade aequeólogica ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260529_082044",
+        "arquivo": "20260529_082044.jpg",
+        "caminho": "IMGS/20260529_082044.jpg",
+        "data": "29/05/2026",
+        "horario": "08:20",
+        "legenda": "Acompanhamento de atividade",
+        "hash_sha256": "6e30bd0c9483a5dbf8b7fec27e521ee8d126f7c11a20bd57f3e031ca44c3faf8",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260529_083619",
+        "arquivo": "20260529_083619.jpg",
+        "caminho": "IMGS/20260529_083619.jpg",
+        "data": "29/05/2026",
+        "horario": "08:36",
+        "legenda": "Acompanhamento de atividade ",
+        "hash_sha256": "634ed903bb3c928632c9df005c501643e6a14fddbc9c19ff2a70da81a567e05a",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260529_085451",
+        "arquivo": "20260529_085451.jpg",
+        "caminho": "IMGS/20260529_085451.jpg",
+        "data": "29/05/2026",
+        "horario": "08:54",
+        "legenda": "Retirada de vegetação ",
+        "hash_sha256": "1e8d2e89f929e765ebee6cc5fd6c92b2138b9c0390276c8fed2340ea486ff51d",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260529_085531",
+        "arquivo": "20260529_085531.jpg",
+        "caminho": "IMGS/20260529_085531.jpg",
+        "data": "29/05/2026",
+        "horario": "08:55",
+        "legenda": "Retirada de vegetação ",
+        "hash_sha256": "9d869f7f6474ce1b04b4b3be9744a2dec47e75af4ec2e3eeb6d2a261975047e7",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      }
+    ]
+  }
+}
