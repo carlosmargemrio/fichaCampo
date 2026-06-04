@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MPYSW250",
+    "dataCampo": "2026-06-03",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Abertura de acessos/estrada e carregamento de matéria orgânica ",
+    "clima": "ensolarado",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem composta por floresta manejada ",
+    "obs": "Durante acompanhamento das atividades não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260603_082348",
+        "arquivo": "20260603_082348.jpg",
+        "caminho": "IMGS/20260603_082348.jpg",
+        "data": "03/06/2026",
+        "horario": "08:23",
+        "legenda": "Retirada de camada vegetal ",
+        "hash_sha256": "09357d94d0b70eecb05ebc1905b5edd198b9f8e4fced9cef6732382fd8e941cb",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260603_082401",
+        "arquivo": "20260603_082401.jpg",
+        "caminho": "IMGS/20260603_082401.jpg",
+        "data": "03/06/2026",
+        "horario": "08:24",
+        "legenda": "Acompanhamento de atividade ",
+        "hash_sha256": "2d8453406ff8d3e8cf50b95d856c04e388710dc05adbadba94a67a8d434ab0bb",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260603_082637",
+        "arquivo": "20260603_082637.jpg",
+        "caminho": "IMGS/20260603_082637.jpg",
+        "data": "03/06/2026",
+        "horario": "08:26",
+        "legenda": "Remoção de camada vegetal ",
+        "hash_sha256": "3b757b69af7d40273dbaf3aa442699b1d098e8c52d42c905579dc259851ec188",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260603_082741",
+        "arquivo": "20260603_082741.jpg",
+        "caminho": "IMGS/20260603_082741.jpg",
+        "data": "03/06/2026",
+        "horario": "08:27",
+        "legenda": "Remoção de camada vegetal ",
+        "hash_sha256": "1d1b9b6f6a8b8fb33e5ca6a42cfb80558642685f4356ec0a3e244405587f4a4c",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      }
+    ]
+  }
+}
