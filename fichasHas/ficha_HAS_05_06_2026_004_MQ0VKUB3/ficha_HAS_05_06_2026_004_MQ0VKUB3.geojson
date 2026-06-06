@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260605_113747.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260605_113747",
+        "arquivo": "TimePhoto_20260605_113747.jpg",
+        "caminho": "IMGS/TimePhoto_20260605_113747.jpg",
+        "lat": -9.302023055555557,
+        "lon": -39.936564999999995,
+        "latlon": "-9.302023, -39.936565",
+        "utm": "24L 397141 8971621",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397141,
+        "utm_northing": 8971621,
+        "utm_hemisphere": "S",
+        "data": "05/06/2026",
+        "horario": "11:37",
+        "legenda": "Monitoramento da supressão vegetal na Cava N8, com exposição do solo pedregoso",
+        "hash_md5": null,
+        "hash_sha256": "29c2dc82acf08d9001a998c8177d0f26f77a48176ddf41e66a1fcd152f89adaa",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.936564999999995,
+          -9.302023055555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260605_155241.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260605_155241",
+        "arquivo": "TimePhoto_20260605_155241.jpg",
+        "caminho": "IMGS/TimePhoto_20260605_155241.jpg",
+        "lat": -9.302749722222224,
+        "lon": -39.93816972222222,
+        "latlon": "-9.302750, -39.938170",
+        "utm": "24L 396965 8971540",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396965,
+        "utm_northing": 8971540,
+        "utm_hemisphere": "S",
+        "data": "05/06/2026",
+        "horario": "15:52",
+        "legenda": "Monitoramento em acesso desenvolvido na CavaN8",
+        "hash_md5": null,
+        "hash_sha256": "64b1eb5ea6cc1841892b848f37fde7e3594e4dce4894e35a35f93f4462752466",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93816972222222,
+          -9.302749722222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260605_092118.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260605_092118",
+        "arquivo": "TimePhoto_20260605_092118.jpg",
+        "caminho": "IMGS/TimePhoto_20260605_092118.jpg",
+        "lat": -9.301131666666667,
+        "lon": -39.937115,
+        "latlon": "-9.301132, -39.937115",
+        "utm": "24L 397080 8971719",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397080,
+        "utm_northing": 8971719,
+        "utm_hemisphere": "S",
+        "data": "05/06/2026",
+        "horario": "09:21",
+        "legenda": "Vista da leve ondulação do terreno na Cava N8, atravessada por linhas de drenagem sazonal no sentido leste-oeste.",
+        "hash_md5": null,
+        "hash_sha256": "04e9d0246a467e169498232419f60a7717c45b4353164cb866fb73074fa62d6f",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.937115,
+          -9.301131666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260605_092605.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260605_092605",
+        "arquivo": "TimePhoto_20260605_092605.jpg",
+        "caminho": "IMGS/TimePhoto_20260605_092605.jpg",
+        "lat": -9.301104722222222,
+        "lon": -39.93707138888889,
+        "latlon": "-9.301105, -39.937071",
+        "utm": "24L 397085 8971722",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397085,
+        "utm_northing": 8971722,
+        "utm_hemisphere": "S",
+        "data": "05/06/2026",
+        "horario": "09:26",
+        "legenda": "Vista da supressão vegetal na Cava N8 evidenciando a leve ondulação do terreno",
+        "hash_md5": null,
+        "hash_sha256": "d8c52fd2bf6c9acb8a756289c43f27992c10c7c7cd8fd8be0620746bad92b1ce",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93707138888889,
+          -9.301104722222222
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQ0VKUB3",
+    "dataCampo": "2026-06-05",
+    "horaIni": "08:05",
+    "horaFim": "17:07",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "004",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "Nublado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-argiloso / Areno-argiloso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Na continuidade do monitoramento arqueológico da supressão vegetal na Cava N8, observou-se o início de uma leve ondulação do terreno, seccionada no sentido leste-oeste por linhas de drenagem sazonal. Nos setores mais baixos, o sedimento apresentou textura aparente areno-siltosa, com granulometria média tendendo a fina. Na porção discretamente mais elevada, verificou-se maior presença de seixos de quartzo, em sua maioria pouco rolados, associados a sedimento mais argiloso e de coloração avermelhada. Essa associação pode sugerir proximidade de fonte litológica ou afloramento cristalino local, hipótese que demanda confirmação por observação geológica específica. A cobertura vegetal apresentou predomínio rasteiro, com presença de macambiras, tendo sido avistados tatus e preás. A ocorrência desses animais também indica a necessidade de atenção às bioturbações e tocas, que podem expor materiais anteriormente soterrados ou produzir alterações no sedimento. O acompanhamento permaneceu direcionado à observação das drenagens, cascalheiras, seixos de quartzo, sedimentos recém-expostos e eventuais evidências arqueológicas ou alterações antrópicas do solo.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
