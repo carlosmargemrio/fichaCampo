@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260608_115432.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260608_115432",
+        "arquivo": "TimePhoto_20260608_115432.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_115432.jpg",
+        "lat": -9.302288055555556,
+        "lon": -39.93675972222222,
+        "latlon": "-9.302288, -39.936760",
+        "utm": "24L 397120 8971591",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397120,
+        "utm_northing": 8971591,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "11:54",
+        "legenda": "Início das atividades",
+        "hash_md5": null,
+        "hash_sha256": "a97ebfc2e0c825f20ab1a6f7e89cd7b8c180ceedfddbf886e7b5a2caa78c6394",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93675972222222,
+          -9.302288055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260608_131119.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260608_131119",
+        "arquivo": "TimePhoto_20260608_131119.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_131119.jpg",
+        "lat": -9.304783333333335,
+        "lon": -39.936454999999995,
+        "latlon": "-9.304783, -39.936455",
+        "utm": "24L 397154 8971316",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397154,
+        "utm_northing": 8971316,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "13:11",
+        "legenda": "Triagem visual após supressão vegetal",
+        "hash_md5": null,
+        "hash_sha256": "65a72cdd15d5b25ef7b92d4e4f794c1d2cd5091f6a4fad0d2d6b70fc2159beeb",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.936454999999995,
+          -9.304783333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260608_152256.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260608_152256",
+        "arquivo": "TimePhoto_20260608_152256.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_152256.jpg",
+        "lat": -9.304868333333333,
+        "lon": -39.93868305555555,
+        "latlon": "-9.304868, -39.938683",
+        "utm": "24L 396909 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396909,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "15:22",
+        "legenda": "Matação com suporte passivo de moagem",
+        "hash_md5": null,
+        "hash_sha256": "e6682e724c79bd7bd130930fa78d6e8e15245b54f9b379b1afe0a0933362f975",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93868305555555,
+          -9.304868333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260608_150650.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260608_150650",
+        "arquivo": "TimePhoto_20260608_150650.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_150650.jpg",
+        "lat": -9.30363,
+        "lon": -39.93904305555555,
+        "latlon": "-9.303630, -39.939043",
+        "utm": "24L 396869 8971442",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396869,
+        "utm_northing": 8971442,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "15:06",
+        "legenda": "Supressão vegetal",
+        "hash_md5": null,
+        "hash_sha256": "88cdefdf5be09f5b46a9eaa1bbd2a101fe03e4ab311a28a09042dfb5b3f7d913",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93904305555555,
+          -9.30363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260608_124908.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260608_124908",
+        "arquivo": "TimePhoto_20260608_124908.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_124908.jpg",
+        "lat": -9.303398055555556,
+        "lon": -39.93664666666666,
+        "latlon": "-9.303398, -39.936647",
+        "utm": "24L 397132 8971469",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397132,
+        "utm_northing": 8971469,
+        "utm_hemisphere": "S",
+        "data": "08/06/2026",
+        "horario": "12:49",
+        "legenda": "Localização do instrumento ou pré-forma lítica",
+        "hash_md5": null,
+        "hash_sha256": "cb3e83dbe12eb8a6e197aa7beaf0da18785c3280c8ffb43afb56b30b920a0bf5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93664666666666,
+          -9.303398055555556
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQ5G9AK7",
+    "dataCampo": "2026-06-08",
+    "horaIni": "11:52",
+    "horaFim": "17:10",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "005",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo ",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "Nublado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "SIM",
+    "tipoEvidencia": "Pré-colonial",
+    "materiaisEncontrados": "SIM",
+    "tipoMaterial": "Lítico",
+    "tipoMaterialOutro": "Cerâmico ",
+    "coleta": "SIM",
+    "amostrasAnalise": "SIM",
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": "NAO",
+    "medidasAdotadas": "Delimitação de raios a partir dos centros das coordenadas do vestígios localizados. ",
+    "interrupcaoAtividade": "SIM",
+    "motivoInterrupcao": "Identificação de ocorrências na ADA",
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "\nNa continuidade do monitoramento arqueológico da supressão vegetal na Cava N8, foram identificadas três ocorrências materiais em superfície. Após a comunicação ao operador da máquina e à equipe de biologia, o avanço da supressão foi temporariamente contido nos setores delimitados, permitindo o registro, a avaliação preliminar e a execução de prospecções nos respectivos entornos.\nA primeira ocorrência corresponde a um instrumento ou pré-forma lítica em rocha quartzosa ferruginizada, provavelmente quartzito ou metarenito silicificado, apresentando retiradas organizadas e bordas parcialmente modificadas, sem marcas macroscópicas inequívocas de uso. A peça foi registrada, georreferenciada e encontra-se em acondicionamento provisório, seguindo as normativas técnicas e os procedimentos de salvaguarda aplicáveis, para posterior encaminhamento às análises laboratoriais. A partir da coordenada de localização da peça (-9.303397, -39.936641), foi estabelecido raio de 100 m, correspondente a aproximadamente 3,14 ha. Desse total, cerca de 1 ha, na porção oeste, abrange área anteriormente escavada para extração de cobre; aproximadamente 0,5 ha, a leste, encontra-se fora da área de supressão prevista; e outros 0,5 ha, ao norte, já haviam sido monitorados durante a supressão vegetal, etapa em que foi realizada apenas a retirada inicial de cerca de 15 cm da cobertura vegetal e do horizonte húmico. Assim, permaneceu uma área efetiva de aproximadamente 1,14 ha, submetida à prospecção superficial conforme as condições de visibilidade.\nA prospecção no entorno da ocorrência lítica foi direcionada à busca de percutores, lascas e demais resíduos de debitagem que pudessem indicar atividade de lascamento ou caracterizar uma possível oficina lítica. Até o momento, não foram identificados, em superfície, outros materiais de origem antrópica na área delimitada e prospectada. O setor apresenta relevo relativamente plano e concentração expressiva de fragmentos de quartzo pouco rolados, condição compatível com proximidade de uma fonte local, veio de quartzo ou material residual de alteração do embasamento cristalino. Considerando a baixa declividade, eventuais resíduos de debitagem tenderiam a permanecer próximos ao local de produção, excetuadas possíveis remobilizações hídricas ou mecânicas. Diante da ausência atual de materiais associados, a peça foi classificada preliminarmente como ocorrência lítica isolada. O monitoramento permanecerá ativo durante o avanço da supressão, pois a remoção aproximada de 15 cm da vegetação e do horizonte húmico poderá expor materiais ainda encobertos e fornecer novos elementos para confirmar ou afastar a hipótese de uma área de lascamento.\nA segunda ocorrência consiste em um matacão, destacado do substrato, com aproximadamente 40 cm no maior eixo e 28 cm no eixo transversal, apresentando superfície localizada de alisamento e desgaste, preliminarmente compatível com suporte passivo de moagem, abrasão ou polimento. A terceira ocorrência corresponde a recipiente cerâmico parcialmente preservado, situado cerca de 21,7 m do matacão, cuja cronologia remete ao período histórico e a funcionalidade permanece indeterminada. Ambas foram registradas fotograficamente, georreferenciadas e mantidas in situ.\nPara o conjunto dessas duas ocorrências, foi adotado raio operacional de 50 m, equivalente a aproximadamente 0,785 ha. Desse total, cerca de 0,4 ha encontram-se fora da área de supressão prevista, restando aproximadamente 0,385 ha passíveis de prospecção. Foram prospectados 0,135 ha, permanecendo cerca de 0,250 ha para continuidade da vistoria. A busca concentrou-se na identificação de possíveis mãos de mó, percutores, instrumentos ou outros vestígios associados ao uso do matacão, além de materiais relacionados ao recipiente cerâmico. Até o momento, não foram reconhecidos outros vestígios em superfície. A área apresenta condições ambientais semelhantes às observadas no entorno da primeira ocorrência, com concentração significativa de quartzo pouco rolado e visibilidade variável do solo.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "TimePhoto_20260608_152629",
+        "arquivo": "TimePhoto_20260608_152629.jpg",
+        "caminho": "IMGS/TimePhoto_20260608_152629.jpg",
+        "data": "08/06/2026",
+        "horario": "15:26",
+        "legenda": "Recipiente cerâmico ",
+        "hash_sha256": "8218bd01f12dfc8ac7143ca47cd6fcc950323451d515d9d1caf513261c6df415",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL"
+      }
+    ]
+  }
+}
