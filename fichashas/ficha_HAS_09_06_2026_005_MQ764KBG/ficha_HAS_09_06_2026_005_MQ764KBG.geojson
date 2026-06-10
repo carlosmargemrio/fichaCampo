@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260609_090058.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260609_090058",
+        "arquivo": "TimePhoto_20260609_090058.jpg",
+        "caminho": "IMGS/TimePhoto_20260609_090058.jpg",
+        "lat": -9.304003055555556,
+        "lon": -39.93888,
+        "latlon": "-9.304003, -39.938880",
+        "utm": "24L 396887 8971401",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396887,
+        "utm_northing": 8971401,
+        "utm_hemisphere": "S",
+        "data": "09/06/2026",
+        "horario": "09:00",
+        "legenda": "Monitoramento supressão vegetal mecanizada ",
+        "hash_md5": null,
+        "hash_sha256": "69bbecc5d188d0d4ace7acc8c30f14b56679f7c944b812994849095257f0bcc2",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93888,
+          -9.304003055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260609_110413.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260609_110413",
+        "arquivo": "TimePhoto_20260609_110413.jpg",
+        "caminho": "IMGS/TimePhoto_20260609_110413.jpg",
+        "lat": -9.304969722222223,
+        "lon": -39.93861333333333,
+        "latlon": "-9.304970, -39.938613",
+        "utm": "24L 396917 8971294",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396917,
+        "utm_northing": 8971294,
+        "utm_hemisphere": "S",
+        "data": "09/06/2026",
+        "horario": "11:04",
+        "legenda": "Vista lateral da mão de mó, evidenciando sua espessura e superfície aparentemente regularizada",
+        "hash_md5": null,
+        "hash_sha256": "cfd37d561ade80c2dad12ebcabb0de95bde06b76f6d18b6e7e5206f415934d38",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93861333333333,
+          -9.304969722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260609_104843.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260609_104843",
+        "arquivo": "TimePhoto_20260609_104843.jpg",
+        "caminho": "IMGS/TimePhoto_20260609_104843.jpg",
+        "lat": -9.30484638888889,
+        "lon": -39.939265,
+        "latlon": "-9.304846, -39.939265",
+        "utm": "24L 396845 8971308",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396845,
+        "utm_northing": 8971308,
+        "utm_hemisphere": "S",
+        "data": "09/06/2026",
+        "horario": "10:48",
+        "legenda": "Lasca grande porte em quartzo, apresentando retiradas organizadas e modificações nas bordas",
+        "hash_md5": null,
+        "hash_sha256": "f7df53b9f596d954a452d03223f8331ede615f91fd1de0ca436f371e281e4980",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.939265,
+          -9.30484638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260609_104241.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260609_104241",
+        "arquivo": "TimePhoto_20260609_104241.jpg",
+        "caminho": "IMGS/TimePhoto_20260609_104241.jpg",
+        "lat": -9.304920000000001,
+        "lon": -39.93879472222222,
+        "latlon": "-9.304920, -39.938795",
+        "utm": "24L 396897 8971300",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396897,
+        "utm_northing": 8971300,
+        "utm_hemisphere": "S",
+        "data": "09/06/2026",
+        "horario": "10:42",
+        "legenda": "Detalhe da extremidade ativa do percutor, evidenciando picoteamento e desgaste localizado",
+        "hash_md5": null,
+        "hash_sha256": "66f3268a0025488dc602f5823e9ec3a5111be74c9e097b8078adece8bdb6ad7b",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93879472222222,
+          -9.304920000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260609_110737.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260609_110737",
+        "arquivo": "TimePhoto_20260609_110737.jpg",
+        "caminho": "IMGS/TimePhoto_20260609_110737.jpg",
+        "lat": -9.30486138888889,
+        "lon": -39.93871305555555,
+        "latlon": "-9.304861, -39.938713",
+        "utm": "24L 396906 8971306",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396906,
+        "utm_northing": 8971306,
+        "utm_hemisphere": "S",
+        "data": "09/06/2026",
+        "horario": "11:07",
+        "legenda": "Compatibilidade entre a mão de mó e o suporte de moagem",
+        "hash_md5": null,
+        "hash_sha256": "516fdca09dd26b2c4463425fd3d9c3e5769b0c3ec0820f98e275862b0161aaf7",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93871305555555,
+          -9.30486138888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQ764KBG",
+    "dataCampo": "2026-06-09",
+    "horaIni": "08:05",
+    "horaFim": "17:08",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "005",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo ",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegeta",
+    "clima": "Nublado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-argiloso / Areno-argiloso",
+    "granulometria": "Média",
+    "vestigios": "SIM",
+    "tipoEvidencia": "Pré-colonial",
+    "materiaisEncontrados": "SIM",
+    "tipoMaterial": "Lítico",
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": "NAO",
+    "fotografias": "SIM",
+    "croquis": "NAO",
+    "houveAlteracaoContexto": "NAO",
+    "medidasAdotadas": "contenção localizada da supressão, comunicação às equipes, registro fotográfico, georreferenciamento, delimitação de raios de prospecção a partir das coordenadas centrais dos vestígios localizados e vistoria dos entornos",
+    "interrupcaoAtividade": "SIM",
+    "motivoInterrupcao": "identificação de ocorrências arqueológicas na ADA, com necessidade de registro, avaliação contextual e prospecção dos respectivos entornos.",
+    "observacoesRecomendacoes": "O conjunto de ocorrências identificadas sugere possível concentração de atividades líticas, embora ainda não haja elementos suficientes para caracterização como oficina ou delimitação de sítio arqueológico. Recomenda-se manter o monitoramento ativo, concluir a prospecção dos raios estabelecidos, registrar espacialmente a distribuição dos vestígios e encaminhar os resultados à coordenação arqueológica para avaliação das medidas subsequentes.",
+    "observacoesExtras": null,
+    "desc": "Na continuidade do monitoramento arqueológico da supressão vegetal mecanizada na Cava N8, monitorou-se inicialmente o avanço da máquina e a exposição progressiva da superfície. Quando a atividade passou a se concentrar na conformação das leiras e na formação de pilhas temporárias para o posterior transporte da biomassa vegetal já suprimida, procedeu-se à vistoria e à prospecção oportunística no raio de 50 m, conforme registrado na ficha_HAS_08_06_2026_005_MQ5G9AK7.docx, estabelecido no entorno do matacão com superfície de moagem e do recipiente cerâmico parcialmente preservado.\nDurante a vistoria, foram identificadas novas ocorrências líticas. A primeira corresponde a um percutor sobre seixo, de morfologia arredondada, apresentando concentração de marcas de percussão em uma de suas extremidades. Na sequência, foi localizada uma lasca de grande porte em  quartzo, apresentando retiradas organizadas e modificações nas bordas compatíveis com retoque. A superfície da peça apresenta alteração diferencial correspondente a neocórtex ou pátina, não sendo observada aparência de fratura recente; contudo, não sendo possível atribuir, ou estabelecer sua cronologia.\nA aproximadamente 15 m desse conjunto, ao Sul, foi localizada uma peça subarredondada, com dimensões e morfologia compatíveis com uma mão de mó ou instrumento ativo de moagem. A peça apresenta formato adequado à preensão manual e compatibilidade morfológica com a área côncava e alisada do matacão anteriormente registrado. Essa correspondência deve ser avaliada conjuntamente com as marcas de desgaste presentes nas superfícies de ambas as peças, visando à caracterização de sua relação funcional.\nA identificação do percutor, da lasca retocada e da mão de mó, somada às ocorrências registradas anteriormente, reforça a interpretação de que o setor corresponde a uma concentração de atividades líticas. A hipótese de oficina permanece em análise, dependendo da identificação de maior quantidade de lascas, núcleos, resíduos de debitagem, percutores e eventuais remontagens que indiquem produção de instrumentos no local.\nEm razão das novas ocorrências, foi estabelecido novo raio operacional de 50 m a partir da localização da lasca retocada. Embora parte desse perímetro esteja fora da área atualmente prevista para supressão, recomenda-se sua prospecção sistemática e, quando as condições operacionais não permitirem cobertura contínua, a realização de vistorias oportunísticas, com atenção à distribuição, densidade e associação espacial dos materiais.\nA prospecção do perímetro não pôde ser concluída, pois a supressão vegetal foi retomada em área próxima, tendo sido priorizado o monitoramento arqueológico concomitante ao avanço da máquina. O restante da atividade foi dedicado ao acompanhamento e à vistoria das superfícies expostas pela supressão mecanizada, não tendo sido identificadas novas ocorrências nos setores previamente vistoriados naquele momento.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
