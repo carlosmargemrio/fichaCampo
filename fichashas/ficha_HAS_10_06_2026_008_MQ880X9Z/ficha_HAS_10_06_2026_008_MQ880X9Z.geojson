@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260610_084606.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260610_084606",
+        "arquivo": "TimePhoto_20260610_084606.jpg",
+        "caminho": "IMGS/TimePhoto_20260610_084606.jpg",
+        "lat": -9.304701666666668,
+        "lon": -39.93644,
+        "latlon": "-9.304702, -39.936440",
+        "utm": "24L 397155 8971325",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397155,
+        "utm_northing": 8971325,
+        "utm_hemisphere": "S",
+        "data": "10/06/2026",
+        "horario": "08:46",
+        "legenda": "Início das atividades de supressão vegetal diária ",
+        "hash_md5": null,
+        "hash_sha256": "209389753cc734bc7bbca454a7f7908cac504fb701a0920ad1dc951eb2682ae5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93644,
+          -9.304701666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260610_104343.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260610_104343",
+        "arquivo": "TimePhoto_20260610_104343.jpg",
+        "caminho": "IMGS/TimePhoto_20260610_104343.jpg",
+        "lat": -9.303806388888889,
+        "lon": -39.936755,
+        "latlon": "-9.303806, -39.936755",
+        "utm": "24L 397120 8971424",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397120,
+        "utm_northing": 8971424,
+        "utm_hemisphere": "S",
+        "data": "10/06/2026",
+        "horario": "10:43",
+        "legenda": "Detalhe da decapagem em área com presença de seixos de quartzo (pouco rolados)",
+        "hash_md5": null,
+        "hash_sha256": "d6b3f1ab21aad585fc79b7f3cd8bee52e03b79c60e21235ebdec77f10c15b268",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.936755,
+          -9.303806388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260610_095020.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260610_095020",
+        "arquivo": "TimePhoto_20260610_095020.jpg",
+        "caminho": "IMGS/TimePhoto_20260610_095020.jpg",
+        "lat": -9.304020000000001,
+        "lon": -39.93629833333333,
+        "latlon": "-9.304020, -39.936298",
+        "utm": "24L 397171 8971400",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397171,
+        "utm_northing": 8971400,
+        "utm_hemisphere": "S",
+        "data": "10/06/2026",
+        "horario": "09:50",
+        "legenda": "Detalhe de área com presença de quartzo, mas sem evidências arqueológicas",
+        "hash_md5": null,
+        "hash_sha256": "756a3fdeeddcea8d978e4a797e663d1020ecf8c481318f056d85c949ca9cdf08",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93629833333333,
+          -9.304020000000001
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQ880X9Z",
+    "dataCampo": "2026-06-10",
+    "horaIni": "08:15",
+    "horaFim": "17:09",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "008",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo ",
+    "trecho": "Cava N8",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Na continuidade do monitoramento arqueológico da supressão vegetal mecanizada na Cava N8, o acompanhamento das intervenções seguiu o cronograma operacional previsto, sendo adotadas cautelas adicionais nas atividades realizadas no Perímetro Operacional de Prospecção de 100 m (POP-01), previamente estabelecido e registrado na ficha ficha_HAS_08_06_2026_005_MQ5G9AK7.docx, a partir da coordenada de localização da peça inicialmente interpretada como raspador/instrumento ou pré-forma lítica. O material é confeccionado em rocha quartzosa ferruginizada, preliminarmente interpretada em campo como quartzito, sem exclusão da possibilidade de corresponder a metarenito silicificado. Ressalta-se que essa identificação possui caráter exclusivamente preliminar, baseada em observação macroscópica, devendo sua definição litológica ser aferida posteriormente por análise especializada em laboratório. A peça apresenta retiradas organizadas, bordas parcialmente modificadas e ausência de marcas macroscópicas inequívocas de uso.\nDurante o avanço da máquina, foram vistoriadas continuamente as superfícies recém-expostas, os sedimentos revolvidos e as concentrações de material rochoso presentes no interior do perímetro. Nesse setor, verificou-se a maior concentração observada de seixos de quartzo pouco rolados, possivelmente associados a fonte próxima ou ao material residual de alteração do embasamento cristalino. Apesar da boa visibilidade proporcionada pela supressão, não foram identificados, até o momento, outros vestígios que indicassem ação antrópica de caráter arqueológico, como percutores, núcleos, lascas ou resíduos de debitagem associados à peça central.\nA operação mecanizada foi interrompida por volta das 15h, em razão do risco de imobilização do trator de esteira por falta de combustível, sem relação com ocorrência arqueológica. Durante essa interrupção operacional, retomou-se a prospecção no setor sudeste, correspondente ao POP-02, com raio de 50 m, igualmente definido e registrado na ficha anteriormente mencionada, no entorno do matacão com possível superfície de moagem e do recipiente cerâmico parcialmente preservado.\nNesse segundo perímetro, foram realizadas prospecções sistemáticas e oportunísticas por aproximadamente uma hora, buscando-se concluir a avaliação superficial e identificar possíveis materiais associados às ocorrências anteriormente registradas. As atividades de prospecção foram condicionadas pela baixa visibilidade do terreno e pela dificuldade de deslocamento em determinados trechos, em razão da elevada densidade de gramíneas e da presença de vegetação arbustiva densa, fatores que limitaram a observação contínua da superfície e reduziram o rendimento do caminhamento. Em razão dessas condições e do término do período diário de trabalho, a vistoria não pôde ser concluída, permanecendo setores pendentes de complementação.",
+    "obs": "No POP-01, apesar da elevada concentração de seixos de quartzo pouco rolados, não foram identificados, em superfície, novos vestígios arqueológicos associados ao possível raspador, permanecendo a peça, até o momento, como ocorrência isolada. Seguiremos com o monitoramento ativo durante o prosseguimento da supressão e das intervenções posteriores, pois a exposição de novas superfícies poderá revelar materiais ainda inumados. No POP-02, a prospecção permanece parcialmente executada, devendo ser retomada para conclusão da cobertura do perímetro e avaliação da distribuição espacial das ocorrências já registradas em superfície. Considerando a presença do recipiente cerâmico e da possível superfície de moagem associada ao matacão, o perímetro deverá também ser submetido a procedimentos de investigação em subsuperfície, em conformidade com os critérios de delimitação e caracterização de sítios arqueológicos estabelecidos pela Portaria Iphan nº 316/2019, visando verificar a existência de contexto arqueológico associado e subsidiar a definição da natureza da ocorrência.",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
