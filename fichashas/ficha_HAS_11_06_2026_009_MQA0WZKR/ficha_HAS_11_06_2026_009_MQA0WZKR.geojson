@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260611_092411.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260611_092411",
+        "arquivo": "TimePhoto_20260611_092411.jpg",
+        "caminho": "IMGS/TimePhoto_20260611_092411.jpg",
+        "lat": -9.303324722222223,
+        "lon": -39.938786666666665,
+        "latlon": "-9.303325, -39.938787",
+        "utm": "24L 396897 8971476",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396897,
+        "utm_northing": 8971476,
+        "utm_hemisphere": "S",
+        "data": "11/06/2026",
+        "horario": "09:24",
+        "legenda": "Detalhe da supressão vegetal mecanizada",
+        "hash_md5": null,
+        "hash_sha256": "91e8273cdd26b7c02cbeaf7eb9b862c03c7f089fc17e44f8b5861d7d20e8e92e",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.938786666666665,
+          -9.303324722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260611_121025.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260611_121025",
+        "arquivo": "TimePhoto_20260611_121025.jpg",
+        "caminho": "IMGS/TimePhoto_20260611_121025.jpg",
+        "lat": -9.30483,
+        "lon": -39.936611388888885,
+        "latlon": "-9.304830, -39.936611",
+        "utm": "24L 397137 8971310",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397137,
+        "utm_northing": 8971310,
+        "utm_hemisphere": "S",
+        "data": "11/06/2026",
+        "horario": "12:10",
+        "legenda": "Monitoramento de supressão vegetal da cava n8",
+        "hash_md5": null,
+        "hash_sha256": "c85cb54039feab5b91381e383b2eb067f727dcb510f9fca69b3b7acb6e22e299",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.936611388888885,
+          -9.30483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260611_141527.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260611_141527",
+        "arquivo": "TimePhoto_20260611_141527.jpg",
+        "caminho": "IMGS/TimePhoto_20260611_141527.jpg",
+        "lat": -9.303758333333334,
+        "lon": -39.93631138888889,
+        "latlon": "-9.303758, -39.936311",
+        "utm": "24L 397169 8971429",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397169,
+        "utm_northing": 8971429,
+        "utm_hemisphere": "S",
+        "data": "11/06/2026",
+        "horario": "14:15",
+        "legenda": "Leira da supressão vegetal, detalhe da presença abundante de seixos pouco rolados de quartzo ",
+        "hash_md5": null,
+        "hash_sha256": "58b2fb00243bccc152462c9a16c91ef4387ca81224dd5276feafcc2d283344a4",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93631138888889,
+          -9.303758333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260611_164049.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260611_164049",
+        "arquivo": "TimePhoto_20260611_164049.jpg",
+        "caminho": "IMGS/TimePhoto_20260611_164049.jpg",
+        "lat": -9.30792638888889,
+        "lon": -39.941851666666665,
+        "latlon": "-9.307926, -39.941852",
+        "utm": "24L 396562 8970967",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396562,
+        "utm_northing": 8970967,
+        "utm_hemisphere": "S",
+        "data": "11/06/2026",
+        "horario": "16:40",
+        "legenda": "Início da supressão vegetal na área do depósito de galhada",
+        "hash_md5": null,
+        "hash_sha256": "397a1915edce645c99c7afb31232993ddcd00bbec94d7120e9ef4f2ade6f5c56",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.941851666666665,
+          -9.30792638888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQA0WZKR",
+    "dataCampo": "2026-06-11",
+    "horaIni": "08:14",
+    "horaFim": "17:46",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "009",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo ",
+    "trecho": "Cava N8 e depósito galhada",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": "NAO",
+    "medidasAdotadas": "Monitoramento ativo da supressão no POP-01; vistoria das superfícies recém-expostas, dos sedimentos revolvidos e das leiras; busca dirigida por percutores, núcleos, lascas, resíduos de debitagem e materiais associados; retomada parcial da prospecção nos POP-02 e POP-03; estabelecimento e georreferenciamento do POP-U; comunicação às equipes envolvidas; orientação para não intervenção no perímetro; e início do acompanhamento da supressão na área destinada ao depósito de galhada.",
+    "interrupcaoAtividade": "SIM",
+    "motivoInterrupcao": "Avaliação das ocorrências arqueológicas registradas nos POP-02 e POP-03, sua integração no POP-U e adoção de medida preventiva para preservação da área até a conclusão das investigações arqueológicas.",
+    "observacoesRecomendacoes": "No POP-01, não foram identificados em superfície outros vestígios associados ao instrumento inicialmente registrado, permanecendo este, até o momento, caracterizado como ocorrência arqueológica isolada. Ressalta-se, entretanto, que a atuação da lâmina da máquina durante a supressão vegetal promoveu apenas a remoção superficial do terreno, com rebaixamento médio estimado em aproximadamente 15 cm, não sendo suficiente para expor integralmente possíveis contextos arqueológicos enterrados. Dessa forma, recomenda-se manter o acompanhamento das futuras intervenções em subsuperfície, considerando que rebaixamentos mais profundos poderão expor materiais ainda inumados e fornecer novos elementos para a avaliação arqueológica da área.\nNo POP-U, a distribuição das ocorrências ainda requer prospecção sistemática de superfície e investigação em subsuperfície, mediante procedimentos autorizados e definidos pela coordenação arqueológica, para verificar a existência, a continuidade, a profundidade e a dispersão de eventual contexto arqueológico. Recomenda-se manter o perímetro preservado e sem intervenção até a conclusão dessa avaliação e a definição das medidas técnicas subsequentes.",
+    "observacoesExtras": null,
+    "desc": "Na continuidade do monitoramento arqueológico da supressão vegetal mecanizada, foi concluída a retirada da cobertura vegetal nos setores previstos da Cava N8, com exceção de dois pontos que permaneceram sem intervenção. O primeiro corresponde a uma área isolada por restrição ambiental, em razão da presença de um ninho contendo dois filhotes de urubu, conforme orientação da equipe de biologia. O segundo compreende o setor associado às ocorrências arqueológicas anteriormente registradas nos POP-02 e POP-03, posteriormente reunidos no Perímetro Operacional de Prospecção Unificado — POP-U, mantido preservado até a conclusão das avaliações técnicas em andamento.\nNo Perímetro Operacional de Prospecção de 100 m — POP-01, previamente estabelecido e registrado na ficha ficha_HAS_08_06_2026_005_MQ5G9AK7.docx, foi concluído o monitoramento ativo da supressão vegetal. Esse perímetro teve como ponto central a localização do instrumento ou possível pré-forma lítica inicialmente interpretado como raspador, produzido em rocha quartzosa ferruginizada, preliminarmente identificada como quartzito, sem exclusão da possibilidade de corresponder a metarenito silicificado.\nDurante o avanço da máquina no interior do POP-01, foram vistoriadas as superfícies progressivamente expostas, os sedimentos revolvidos, as leiras formadas pela movimentação mecanizada e as concentrações de materiais rochosos. A observação concentrou-se na busca de elementos que pudessem corroborar a existência de contexto arqueológico associado à peça, especialmente percutores, núcleos, lascas, fragmentos, resíduos de debitagem, possíveis fontes de matéria-prima e outros instrumentos confeccionados em material litológico semelhante.\nO setor apresenta elevada concentração de seixos de quartzo pouco rolados, predominantemente leitosos, com ocorrência menos frequente de quartzo hialino e de variedades de tonalidade mais escura ainda não identificadas macroscopicamente. A matéria-prima do instrumento diferencia-se do conjunto rochoso predominante observado em superfície, podendo corresponder a material exógeno ou proveniente de fonte ainda não reconhecida no interior ou nas proximidades da área acompanhada.\nApesar da ampliação da visibilidade proporcionada pela supressão vegetal, não foram identificados no POP-01 outros vestígios arqueológicos relacionados ao instrumento, tampouco concentrações de resíduos de lascamento que indicassem oficina lítica, área de produção ou continuidade espacial de um contexto arqueológico. Diante dos dados obtidos em superfície, a peça permanece caracterizada como ocorrência arqueológica isolada, sem elementos suficientes, até o momento, para a caracterização ou delimitação de sítio arqueológico. Essa avaliação não exclui a necessidade de acompanhamento das intervenções posteriores que promovam novos rebaixamentos ou exposição da subsuperfície.\nCom a conclusão da supressão nos setores liberados da Cava N8, foi retomada a vistoria das áreas correspondentes ao POP-02 e ao POP-03, este último definido e descrito na ficha ficha_HAS_09_06_2026_005_MQ764KBG.docx, após a identificação de novas ocorrências e a consequente ampliação do perímetro inicial de investigação. A vistoria teve duração limitada ao período necessário para o deslocamento do trator de esteira até um setor situado a sudoeste, fora da Cava N8, destinado à implantação do depósito de galhada proveniente da supressão anteriormente acompanhada.\nConsiderando que os POPs de 50 m ainda demandam avaliação mais aprofundada da dispersão dos vestígios em superfície e posterior investigação em subsuperfície, suas áreas foram reunidas no Perímetro Operacional de Prospecção Unificado — POP-U, abrangendo aproximadamente 2,07 ha e definido pelos seguintes vértices: V1 — 24L 397025 8971269; V2 — 24L 397034 8971319; V3 — 24L 396809 8971418; e V4 — 24L 396769 8971310.\nAproximadamente 1 ha da porção oeste do POP-U encontra-se fora da área atualmente prevista para supressão vegetal. Entretanto, diante da impossibilidade de concluir a vistoria superficial e da necessidade de verificar a continuidade dos vestígios em subsuperfície, essa porção foi incorporada ao perímetro como limite preventivo de segurança e investigação. O POP-U não corresponde, neste momento, à delimitação formal de sítio arqueológico, constituindo medida cautelar destinada a resguardar a área até a conclusão dos procedimentos de avaliação.\nA delimitação do POP-U foi comunicada ao operador da máquina, com orientação para repasse da informação aos encarregados responsáveis, à equipe de biologia e à coordenação de arqueologia da HAS Consultoria Arqueológica, para ciência, prevenção de intervenções no perímetro e planejamento das atividades técnicas subsequentes.\nNa sequência, iniciou-se o monitoramento da supressão vegetal mecanizada na área destinada ao depósito de galhada. Conforme o planejamento operacional, a conclusão dessa frente poderá ocorrer na jornada subsequente, desde que não sejam identificadas ocorrências arqueológicas e não haja interrupções decorrentes de falhas mecânicas, condições climáticas adversas, situações de segurança ou outros impedimentos operacionais.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
