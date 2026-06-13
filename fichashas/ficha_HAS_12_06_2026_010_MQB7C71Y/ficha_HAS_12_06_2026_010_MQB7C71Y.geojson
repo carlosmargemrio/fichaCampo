@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260612_095427.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260612_095427",
+        "arquivo": "TimePhoto_20260612_095427.jpg",
+        "caminho": "IMGS/TimePhoto_20260612_095427.jpg",
+        "lat": -9.308328055555556,
+        "lon": -39.941651388888886,
+        "latlon": "-9.308328, -39.941651",
+        "utm": "24L 396584 8970922",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396584,
+        "utm_northing": 8970922,
+        "utm_hemisphere": "S",
+        "data": "12/06/2026",
+        "horario": "09:54",
+        "legenda": "Clareira vistoriada previamente à supressão, com presença superficial de fragmentos de quartzo",
+        "hash_md5": null,
+        "hash_sha256": "2703a97c07336b0bff79a4bd301fd1cc4675275473cc16828945edd6d33b53ed",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.941651388888886,
+          -9.308328055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260612_111519.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260612_111519",
+        "arquivo": "TimePhoto_20260612_111519.jpg",
+        "caminho": "IMGS/TimePhoto_20260612_111519.jpg",
+        "lat": -9.308348333333335,
+        "lon": -39.941336388888885,
+        "latlon": "-9.308348, -39.941336",
+        "utm": "24L 396619 8970920",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396619,
+        "utm_northing": 8970920,
+        "utm_hemisphere": "S",
+        "data": "12/06/2026",
+        "horario": "11:15",
+        "legenda": "Remoção mecanizada de aproximadamente 15 cm do horizonte superficial após a retirada da vegetação c",
+        "hash_md5": null,
+        "hash_sha256": "ffa024ed6ca7108bc03000c0fe78e27dddf4a8cb1b62c881d8b85ff1d99cc100",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.941336388888885,
+          -9.308348333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260612_120332.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260612_120332",
+        "arquivo": "TimePhoto_20260612_120332.jpg",
+        "caminho": "IMGS/TimePhoto_20260612_120332.jpg",
+        "lat": -9.308094722222222,
+        "lon": -39.941855,
+        "latlon": "-9.308095, -39.941855",
+        "utm": "24L 396562 8970948",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396562,
+        "utm_northing": 8970948,
+        "utm_hemisphere": "S",
+        "data": "12/06/2026",
+        "horario": "12:03",
+        "legenda": "Vista geral da área após a conclusão da supressão vegetal mecanizada",
+        "hash_md5": null,
+        "hash_sha256": "14486acdcac1a19cc34aee8ce25bdf5eeaa23666603e70bae79751b4bb8720a6",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.941855,
+          -9.308094722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260612_110603.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260612_110603",
+        "arquivo": "TimePhoto_20260612_110603.jpg",
+        "caminho": "IMGS/TimePhoto_20260612_110603.jpg",
+        "lat": -9.307855,
+        "lon": -39.941516388888886,
+        "latlon": "-9.307855, -39.941516",
+        "utm": "24L 396599 8970975",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 396599,
+        "utm_northing": 8970975,
+        "utm_hemisphere": "S",
+        "data": "12/06/2026",
+        "horario": "11:06",
+        "legenda": "Vistoria arqueológica das leiras e dos sedimentos expostos durante a supressão vegetal",
+        "hash_md5": null,
+        "hash_sha256": "23cd58ba16352d9c4fb71aa3261c73d4840b5ebeeb24139e9cecadb724557ba0",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.941516388888886,
+          -9.307855
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MQB7C71Y",
+    "dataCampo": "2026-06-12",
+    "horaIni": "08:20",
+    "horaFim": "13:31",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "010",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Depósito de galhada ",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Supressão vegetal ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Silto-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Foi realizado o monitoramento arqueológico da supressão vegetal mecanizada em área de aproximadamente 0,6 ha, indicada pelo empreendimento para implantação do depósito de galhadas e demais componentes da biomassa vegetal removida da Cava N8. Antes do início da intervenção, procedeu-se à vistoria arqueológica preliminar da superfície, seguida do acompanhamento concomitante ao avanço da máquina e da inspeção dos sedimentos, leiras e superfícies progressivamente expostas.\nA vistoria prévia teve como finalidade complementar a avaliação arqueológica da área, considerando que as condições de identificação dos vestígios podem variar ao longo do tempo. Mudanças sazonais na densidade da vegetação, deposição ou remoção de sedimentos pelas chuvas, escoamento superficial, processos erosivos, bioturbações e outros retrabalhamentos naturais ou antrópicos podem encobrir materiais anteriormente visíveis ou, inversamente, expor vestígios que se encontravam parcialmente inumados durante as etapas anteriores de pesquisa.\nDurante o acompanhamento, a observação foi direcionada à identificação de materiais líticos, como lascas, núcleos, percutores, instrumentos, resíduos de debitagem e peças com marcas de picoteamento, polimento ou abrasão; materiais cerâmicos, históricos ou construtivos; e feições indicativas de ocupação humana, como manchas de coloração diferenciada, sedimentos escurecidos, carvões, áreas de compactação, manchas de poste, alinhamentos, estruturas ou concentrações anômalas de materiais.\nTambém foram avaliados os setores com presença superficial de quartzo, buscando-se distinguir concentrações naturais de possíveis conjuntos antrópicos por meio da observação de atributos tecnológicos, como negativos de retirada, talões, bulbos, bordas modificadas, recorrência de formas e associação espacial entre materiais. Embora tenham sido observados fragmentos de quartzo em alguns trechos, não foram reconhecidos atributos que indicassem lascamento intencional ou organização arqueológica desses materiais.\nA remoção mecanizada atingiu aproximadamente 15 cm da cobertura vegetal e do horizonte superficial, ampliando a visibilidade do terreno. Foram vistoriadas as faixas percorridas pela máquina, as leiras, os montículos de sedimento e os setores de maior concentração rochosa. Ao término da atividade, não foram identificados vestígios, feições ou alterações físico-químicas do solo com atributos suficientes para interpretação como evidência arqueológica. A atividade foi encerrada às 12h, após a conclusão da supressão prevista para o setor.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "imagens_sem_gps": []
+  }
+}
