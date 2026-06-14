@@ -2,4 +2,4 @@
 
 Diretório destinado às fichas de acompanhamento arqueológico e às trilhas de monitoramento.
 
-Repositório configurado pelo aplicativo em 13/06/2026, 12:41:26.
+Repositório configurado pelo aplicativo em 14/06/2026, 00:05:02.
