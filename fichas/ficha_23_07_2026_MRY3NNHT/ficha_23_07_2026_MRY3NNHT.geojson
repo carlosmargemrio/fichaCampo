@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MRY3NNHT",
+    "dataCampo": "2026-07-23",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Ampliação de acessos ",
+    "clima": "ensolarado",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Acidentado",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem com capim e gramíneas, entorno composto por árvores nativas de médio porte.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "20260720_082001",
+        "arquivo": "20260720_082001.jpg",
+        "caminho": "IMGS/20260720_082001.jpg",
+        "data": "20/07/2026",
+        "horario": "08:20",
+        "legenda": "Averiguação de perfil ",
+        "hash_sha256": "2814bbee5210f9f801db2bb930076e16ced933f024ba9f31d6348139d7309377",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      },
+      {
+        "nome": "20260716_092546",
+        "arquivo": "20260716_092546.jpg",
+        "caminho": "IMGS/20260716_092546.jpg",
+        "data": "16/07/2026",
+        "horario": "09:25",
+        "legenda": "Acompanhamento de atividade ",
+        "hash_sha256": "d6676646211bafc1bbe1fa09a4c98de679bfcfe63e1930d31c2478baf1c607b8",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "FALLBACK_URI"
+      }
+    ]
+  }
+}
