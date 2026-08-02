@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MSBTAOFT",
+    "dataCampo": "2026-08-02",
+    "horaIni": "10:04",
+    "horaFim": "12:04",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "hfuu",
+    "coordCampo": "jfuif",
+    "arqResp": "ufyihfxh",
+    "tipoAcao": "ugyig",
+    "clima": "chuva",
+    "vegetacao": "hghuf",
+    "relevo": "jhggif",
+    "solo": "jghjf",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "sjshdhdhd",
+    "obs": "hshshdhshd",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "1000361612",
+        "arquivo": "1000361612.jpg",
+        "caminho": "IMGS/1000361612.jpg",
+        "data": "01/08/2026",
+        "horario": "14:00",
+        "legenda": "snndd",
+        "hash_sha256": "62bd0bcde579e2616c000055deecee369d6bf1347c6f05241f7e43ba5e49cfcc",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "URI_SELECIONADO"
+      },
+      {
+        "nome": "1000361608",
+        "arquivo": "1000361608.jpg",
+        "caminho": "IMGS/1000361608.jpg",
+        "data": "01/08/2026",
+        "horario": "13:59",
+        "legenda": "jshshd",
+        "hash_sha256": "eb15219817765b14892173b11dd3fbfd5583aabcf6b8a4aff1bc9ce69eb138d2",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "URI_SELECIONADO"
+      },
+      {
+        "nome": "1000361607",
+        "arquivo": "1000361607.jpg",
+        "caminho": "IMGS/1000361607.jpg",
+        "data": "01/08/2026",
+        "horario": "13:59",
+        "legenda": "sbsbbs",
+        "hash_sha256": "badbec3a3fce236358670ed70316840ce2eabee6bd0a64410f12057829ca75cf",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "URI_SELECIONADO"
+      },
+      {
+        "nome": "1000361613",
+        "arquivo": "1000361613.jpg",
+        "caminho": "IMGS/1000361613.jpg",
+        "data": "01/08/2026",
+        "horario": "14:00",
+        "legenda": "hshshd",
+        "hash_sha256": "154c4d68d0f19ef73a19eb68041dea1d6404c2be7bf127745a840a6939c3ef16",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "URI_SELECIONADO"
+      }
+    ]
+  }
+}
