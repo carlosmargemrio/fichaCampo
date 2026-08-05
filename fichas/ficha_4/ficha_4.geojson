@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260803_095315.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260803_095315",
+        "arquivo": "TimePhoto_20260803_095315.jpg",
+        "caminho": "IMGS/TimePhoto_20260803_095315.jpg",
+        "lat": -6.521133333333333,
+        "lon": -49.70749,
+        "latlon": "-6.521133, -49.707490",
+        "utm": "22M 642912 9279005",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 642912,
+        "utm_northing": 9279005,
+        "utm_hemisphere": "S",
+        "data": "03/08/2026",
+        "horario": "09:53",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "6d26302a1850ef791e5d7b9255bc3a87c4176ec203e98b19188b007c47725bad",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70749,
+          -6.521133333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260803_094334.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260803_094334",
+        "arquivo": "TimePhoto_20260803_094334.jpg",
+        "caminho": "IMGS/TimePhoto_20260803_094334.jpg",
+        "lat": -6.521161388888888,
+        "lon": -49.707415000000005,
+        "latlon": "-6.521161, -49.707415",
+        "utm": "22M 642920 9279001",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 642920,
+        "utm_northing": 9279001,
+        "utm_hemisphere": "S",
+        "data": "03/08/2026",
+        "horario": "09:43",
+        "legenda": "Supressão de vegetação",
+        "hash_md5": null,
+        "hash_sha256": "46817c182153eea6a3b0720705564023743f286647bf86b3fd619f37198b7423",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.707415000000005,
+          -6.521161388888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260803_102307.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260803_102307",
+        "arquivo": "TimePhoto_20260803_102307.jpg",
+        "caminho": "IMGS/TimePhoto_20260803_102307.jpg",
+        "lat": -6.521009722222222,
+        "lon": -49.70742833333333,
+        "latlon": "-6.521010, -49.707428",
+        "utm": "22M 642918 9279018",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 642918,
+        "utm_northing": 9279018,
+        "utm_hemisphere": "S",
+        "data": "03/08/2026",
+        "horario": "10:23",
+        "legenda": "Supressão de vegetação",
+        "hash_md5": null,
+        "hash_sha256": "30009ae3603c1aac8c57dcbb3491923c5cdec2ad9d314881d575b51bd7deaf17",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70742833333333,
+          -6.521009722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260803_102247.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260803_102247",
+        "arquivo": "TimePhoto_20260803_102247.jpg",
+        "caminho": "IMGS/TimePhoto_20260803_102247.jpg",
+        "lat": -6.521016388888889,
+        "lon": -49.70742472222223,
+        "latlon": "-6.521016, -49.707425",
+        "utm": "22M 642919 9279017",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 642919,
+        "utm_northing": 9279017,
+        "utm_hemisphere": "S",
+        "data": "03/08/2026",
+        "horario": "10:22",
+        "legenda": "Supressão de vegetação",
+        "hash_md5": null,
+        "hash_sha256": "eb45cc65faa8573f1508a3701353ab3e67033d7dcbc1f0e2a2641324281d97f5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70742472222223,
+          -6.521016388888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MSFCUA6K",
+    "dataCampo": "2026-08-05",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão de vegetação ",
+    "clima": "ensolarado",
+    "vegetacao": "Área de pastagem ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem com capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
