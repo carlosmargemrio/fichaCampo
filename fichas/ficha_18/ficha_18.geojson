@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260821_105737.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260821_105737",
+        "arquivo": "TimePhoto_20260821_105737.jpg",
+        "caminho": "IMGS/TimePhoto_20260821_105737.jpg",
+        "lat": -6.501359722222222,
+        "lon": -49.70341472222223,
+        "latlon": "-6.501360, -49.703415",
+        "utm": "22M 643368 9281190",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643368,
+        "utm_northing": 9281190,
+        "utm_hemisphere": "S",
+        "data": "21/08/2026",
+        "horario": "10:57",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_md5": null,
+        "hash_sha256": "751b598db404adc1cfb120d8796c6d7ab074c9c3491931fbc5f2313b39f62eee",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70341472222223,
+          -6.501359722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260821_091607.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260821_091607",
+        "arquivo": "TimePhoto_20260821_091607.jpg",
+        "caminho": "IMGS/TimePhoto_20260821_091607.jpg",
+        "lat": -6.50144,
+        "lon": -49.70333138888889,
+        "latlon": "-6.501440, -49.703331",
+        "utm": "22M 643377 9281181",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643377,
+        "utm_northing": 9281181,
+        "utm_hemisphere": "S",
+        "data": "21/08/2026",
+        "horario": "09:16",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "77ff3cbaa843c8728523f517a81b74cdd4bcafe92350b88e313859b0c462a6d5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70333138888889,
+          -6.50144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260821_091636.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260821_091636",
+        "arquivo": "TimePhoto_20260821_091636.jpg",
+        "caminho": "IMGS/TimePhoto_20260821_091636.jpg",
+        "lat": -6.501378333333333,
+        "lon": -49.70326638888889,
+        "latlon": "-6.501378, -49.703266",
+        "utm": "22M 643384 9281188",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643384,
+        "utm_northing": 9281188,
+        "utm_hemisphere": "S",
+        "data": "21/08/2026",
+        "horario": "09:16",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_md5": null,
+        "hash_sha256": "75f4bc6908357a0014d407c4a27434be744862eaaff159a1a5d298d3bfe3aad4",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70326638888889,
+          -6.501378333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260821_091656.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260821_091656",
+        "arquivo": "TimePhoto_20260821_091656.jpg",
+        "caminho": "IMGS/TimePhoto_20260821_091656.jpg",
+        "lat": -6.501331388888889,
+        "lon": -49.703163333333336,
+        "latlon": "-6.501331, -49.703163",
+        "utm": "22M 643396 9281193",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643396,
+        "utm_northing": 9281193,
+        "utm_hemisphere": "S",
+        "data": "21/08/2026",
+        "horario": "09:16",
+        "legenda": "Supressão de vegetação",
+        "hash_md5": null,
+        "hash_sha256": "7ccc3d180332a2381c8766d7eed97019d0bb97509dd4f1a15ed087590e9f03e5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703163333333336,
+          -6.501331388888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MT36H4OY",
+    "dataCampo": "2026-08-21",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Supressão de vegetação ",
+    "clima": "ensolarado",
+    "vegetacao": "Floresta secundária com árvores de médio porte, capinzais e gramíneas.",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloarenoso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área que compreende o córrego Boqueirão, com vegetação de médio porte, também capinzais e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
