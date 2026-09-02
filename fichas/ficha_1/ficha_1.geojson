@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [],
+  "ficha": {
+    "id": "MTK88I8O",
+    "dataCampo": "2026-09-02",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Escavação de SUMP ",
+    "clima": "ensolarado",
+    "vegetacao": "Floresta manejada ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área próximo ao córrego Boqueirão, com vegetação contendo árvores da região amazônica, local manejado onde predominam capim e gramíneas ",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "TimePhoto_20260902_102659",
+        "arquivo": "TimePhoto_20260902_102659.jpg",
+        "caminho": "IMGS/TimePhoto_20260902_102659.jpg",
+        "data": "02/09/2026",
+        "horario": "10:26",
+        "legenda": "Revolvimento de solo",
+        "hash_sha256": "eeea1f4cd88b157a5eb41c0cfa42e940348c75b9c9a66c27e47cfa39b6bfa506",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_REDACTED_BY_PICKER",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      },
+      {
+        "nome": "TimePhoto_20260902_101754",
+        "arquivo": "TimePhoto_20260902_101754.jpg",
+        "caminho": "IMGS/TimePhoto_20260902_101754.jpg",
+        "data": "02/09/2026",
+        "horario": "10:17",
+        "legenda": "Acompanhamento de atividade",
+        "hash_sha256": "f1135d63fd571926c404ad880bd54e91de65d251bcc6c7637d38b66c65366706",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_REDACTED_BY_PICKER",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      },
+      {
+        "nome": "TimePhoto_20260901_095811",
+        "arquivo": "TimePhoto_20260901_095811.jpg",
+        "caminho": "IMGS/TimePhoto_20260901_095811.jpg",
+        "data": "01/09/2026",
+        "horario": "09:58",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_sha256": "653706608b08c410dd30422b4d6e23639aaca74195f0c8fabe85718259881927",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_REDACTED_BY_PICKER",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      },
+      {
+        "nome": "TimePhoto_20260901_132610",
+        "arquivo": "TimePhoto_20260901_132610.jpg",
+        "caminho": "IMGS/TimePhoto_20260901_132610.jpg",
+        "data": "01/09/2026",
+        "horario": "13:26",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_sha256": "be5a19240be2e7bdd905b61a37c9586b8f5b8d8f012293a64efd66b433c3ce05",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_REDACTED_BY_PICKER",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      }
+    ]
+  }
+}
