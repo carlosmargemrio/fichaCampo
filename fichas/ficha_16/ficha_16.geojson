@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260921_083420.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260921_083420",
+        "arquivo": "TimePhoto_20260921_083420.jpg",
+        "caminho": "IMGS/TimePhoto_20260921_083420.jpg",
+        "lat": -6.501603055555556,
+        "lon": -49.70351138888889,
+        "latlon": "-6.501603, -49.703511",
+        "utm": "22M 643357 9281163",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643357,
+        "utm_northing": 9281163,
+        "utm_hemisphere": "S",
+        "data": "21/09/2026",
+        "horario": "08:34",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "fb702a5ad3f84c8537208e9286f4844bb42d2e284bc732680c022f4cdda41ecc",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70351138888889,
+          -6.501603055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260917_085754.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260917_085754",
+        "arquivo": "TimePhoto_20260917_085754.jpg",
+        "caminho": "IMGS/TimePhoto_20260917_085754.jpg",
+        "lat": -6.501201388888889,
+        "lon": -49.703293333333335,
+        "latlon": "-6.501201, -49.703293",
+        "utm": "22M 643381 9281207",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643381,
+        "utm_northing": 9281207,
+        "utm_hemisphere": "S",
+        "data": "17/09/2026",
+        "horario": "08:57",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "6590c6c62a1532b78fb526b7c6e2c7f7ae652df82f68a6f119437a691fbda137",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703293333333335,
+          -6.501201388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260917_084801.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260917_084801",
+        "arquivo": "TimePhoto_20260917_084801.jpg",
+        "caminho": "IMGS/TimePhoto_20260917_084801.jpg",
+        "lat": -6.501281666666666,
+        "lon": -49.70317,
+        "latlon": "-6.501282, -49.703170",
+        "utm": "22M 643395 9281198",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643395,
+        "utm_northing": 9281198,
+        "utm_hemisphere": "S",
+        "data": "17/09/2026",
+        "horario": "08:48",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "cf27b504ff8eba1d075c8541a1cc9d6a022cb9e14878980665260ed73035da77",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70317,
+          -6.501281666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260915_083125.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260915_083125",
+        "arquivo": "TimePhoto_20260915_083125.jpg",
+        "caminho": "IMGS/TimePhoto_20260915_083125.jpg",
+        "lat": -6.501464722222222,
+        "lon": -49.70351138888889,
+        "latlon": "-6.501465, -49.703511",
+        "utm": "22M 643357 9281178",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643357,
+        "utm_northing": 9281178,
+        "utm_hemisphere": "S",
+        "data": "15/09/2026",
+        "horario": "08:31",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_md5": null,
+        "hash_sha256": "21e2c0737ef8dea5d522df280649d50937998f35a904c9895bec0a109b817922",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70351138888889,
+          -6.501464722222222
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MUELUB48",
+    "dataCampo": "2026-09-23",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Escavação de SUMP ",
+    "clima": "ensolarado",
+    "vegetacao": "Área alagada  com vegetação onde predominam capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Escavação de SUMP ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de pastagem com capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
