@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261015_092108.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261015_092108",
+        "arquivo": "TimePhoto_20261015_092108.jpg",
+        "caminho": "IMGS/TimePhoto_20261015_092108.jpg",
+        "lat": -6.504169722222223,
+        "lon": -49.70146805555556,
+        "latlon": "-6.504170, -49.701468",
+        "utm": "22M 643582 9280879",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643582,
+        "utm_northing": 9280879,
+        "utm_hemisphere": "S",
+        "data": "15/10/2026",
+        "horario": "09:21",
+        "legenda": "Corte de terreno",
+        "hash_md5": null,
+        "hash_sha256": "79a821e874d2220e1cc5afa2358abcc382ee736d3b621f7b1693546f238136ba",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70146805555556,
+          -6.504169722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261015_090729.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261015_090729",
+        "arquivo": "TimePhoto_20261015_090729.jpg",
+        "caminho": "IMGS/TimePhoto_20261015_090729.jpg",
+        "lat": -6.504509722222222,
+        "lon": -49.702160000000006,
+        "latlon": "-6.504510, -49.702160",
+        "utm": "22M 643506 9280841",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643506,
+        "utm_northing": 9280841,
+        "utm_hemisphere": "S",
+        "data": "15/10/2026",
+        "horario": "09:07",
+        "legenda": "Averiguação de terreno durante atividade",
+        "hash_md5": null,
+        "hash_sha256": "ae04220760b791cc3b9997add99f619d1d7df046eeafe67f6f10e0fbe7221ef5",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.702160000000006,
+          -6.504509722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261015_090718.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261015_090718",
+        "arquivo": "TimePhoto_20261015_090718.jpg",
+        "caminho": "IMGS/TimePhoto_20261015_090718.jpg",
+        "lat": -6.5045633333333335,
+        "lon": -49.70216666666667,
+        "latlon": "-6.504563, -49.702167",
+        "utm": "22M 643505 9280835",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643505,
+        "utm_northing": 9280835,
+        "utm_hemisphere": "S",
+        "data": "15/10/2026",
+        "horario": "09:07",
+        "legenda": "Escavação mecanizada",
+        "hash_md5": null,
+        "hash_sha256": "ba151f1808c32f8b6a924ba3fbf1a249b79e5e10767fd68a1cda982da49dd6f6",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70216666666667,
+          -6.5045633333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261015_082152.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261015_082152",
+        "arquivo": "TimePhoto_20261015_082152.jpg",
+        "caminho": "IMGS/TimePhoto_20261015_082152.jpg",
+        "lat": -6.504554722222222,
+        "lon": -49.70220805555556,
+        "latlon": "-6.504555, -49.702208",
+        "utm": "22M 643500 9280836",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643500,
+        "utm_northing": 9280836,
+        "utm_hemisphere": "S",
+        "data": "15/10/2026",
+        "horario": "08:21",
+        "legenda": "Escavação mecanizada",
+        "hash_md5": null,
+        "hash_sha256": "1d28e67a4f4f2eb59faaa80ac9bf7f5d0bed3dbd1f2517129c69895d15c8b279",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70220805555556,
+          -6.504554722222222
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MVB6NBHY",
+    "dataCampo": "2026-10-16",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e carregamento de matéria orgânica ",
+    "clima": "ensolarado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área para pastagem animal com vegetação composta por capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
