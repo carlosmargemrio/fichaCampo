@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261017_083851.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261017_083851",
+        "arquivo": "TimePhoto_20261017_083851.jpg",
+        "caminho": "IMGS/TimePhoto_20261017_083851.jpg",
+        "lat": -6.504973333333333,
+        "lon": -49.70228,
+        "latlon": "-6.504973, -49.702280",
+        "utm": "22M 643492 9280790",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643492,
+        "utm_northing": 9280790,
+        "utm_hemisphere": "S",
+        "data": "17/10/2026",
+        "horario": "08:38",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "4c7e625b0702e5a2c090606195d39a8f169f699612d1bf548449f39faf13f9df",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70228,
+          -6.504973333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261017_085229.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261017_085229",
+        "arquivo": "TimePhoto_20261017_085229.jpg",
+        "caminho": "IMGS/TimePhoto_20261017_085229.jpg",
+        "lat": -6.503813055555556,
+        "lon": -49.70240666666667,
+        "latlon": "-6.503813, -49.702407",
+        "utm": "22M 643479 9280918",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643479,
+        "utm_northing": 9280918,
+        "utm_hemisphere": "S",
+        "data": "17/10/2026",
+        "horario": "08:52",
+        "legenda": "Averiguação de perímetro",
+        "hash_md5": null,
+        "hash_sha256": "78cb52f4c1a857a6a730f3250c29fa4016dfe497497f883c61d1ae3aac2456cf",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70240666666667,
+          -6.503813055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261017_090422.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261017_090422",
+        "arquivo": "TimePhoto_20261017_090422.jpg",
+        "caminho": "IMGS/TimePhoto_20261017_090422.jpg",
+        "lat": -6.504378055555556,
+        "lon": -49.70240972222223,
+        "latlon": "-6.504378, -49.702410",
+        "utm": "22M 643478 9280856",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643478,
+        "utm_northing": 9280856,
+        "utm_hemisphere": "S",
+        "data": "17/10/2026",
+        "horario": "09:04",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "c647f16a9de5f42dc69b00ecc5800d9089bdc68ef506570daff9d60b4ac82af1",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70240972222223,
+          -6.504378055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261017_083617.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261017_083617",
+        "arquivo": "TimePhoto_20261017_083617.jpg",
+        "caminho": "IMGS/TimePhoto_20261017_083617.jpg",
+        "lat": -6.5048763888888885,
+        "lon": -49.702063333333335,
+        "latlon": "-6.504876, -49.702063",
+        "utm": "22M 643516 9280801",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643516,
+        "utm_northing": 9280801,
+        "utm_hemisphere": "S",
+        "data": "17/10/2026",
+        "horario": "08:36",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_md5": null,
+        "hash_sha256": "d894e4b05c1e693b24f6c695a2a490e9fb81c4068f5db9d5d90bc6288767226e",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.702063333333335,
+          -6.5048763888888885
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MVF8QKAN",
+    "dataCampo": "2026-10-19",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e carregamento de matéria orgânica ",
+    "clima": "nublado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área antropisada, onde animais pastagem, em dias atuais, a área possuí em sua vegetação, majoritariamente, capim e gramíneas, com algumas poucas árvores da região amazônica.",
+    "obs": "Duarte acompanhando das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
