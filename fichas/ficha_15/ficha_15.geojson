@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261022_085137.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261022_085137",
+        "arquivo": "TimePhoto_20261022_085137.jpg",
+        "caminho": "IMGS/TimePhoto_20261022_085137.jpg",
+        "lat": -6.505018333333333,
+        "lon": -49.70236166666667,
+        "latlon": "-6.505018, -49.702362",
+        "utm": "22M 643483 9280785",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643483,
+        "utm_northing": 9280785,
+        "utm_hemisphere": "S",
+        "data": "22/10/2026",
+        "horario": "08:51",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "f5e9f8d3b130b700f248567bd9fcd7d61ec2af58fec83c08abbb3705f0297653",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70236166666667,
+          -6.505018333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261022_085108.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261022_085108",
+        "arquivo": "TimePhoto_20261022_085108.jpg",
+        "caminho": "IMGS/TimePhoto_20261022_085108.jpg",
+        "lat": -6.504976388888889,
+        "lon": -49.702333333333335,
+        "latlon": "-6.504976, -49.702333",
+        "utm": "22M 643486 9280790",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643486,
+        "utm_northing": 9280790,
+        "utm_hemisphere": "S",
+        "data": "22/10/2026",
+        "horario": "08:51",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "9da423575801e3e3ac80ee15374fcda5bd6831716a00f2eadae7f3d0eb7ae460",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.702333333333335,
+          -6.504976388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261022_083631.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261022_083631",
+        "arquivo": "TimePhoto_20261022_083631.jpg",
+        "caminho": "IMGS/TimePhoto_20261022_083631.jpg",
+        "lat": -6.504984722222222,
+        "lon": -49.70235666666667,
+        "latlon": "-6.504985, -49.702357",
+        "utm": "22M 643484 9280789",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643484,
+        "utm_northing": 9280789,
+        "utm_hemisphere": "S",
+        "data": "22/10/2026",
+        "horario": "08:36",
+        "legenda": "Carregamento de matéria orgânica",
+        "hash_md5": null,
+        "hash_sha256": "053941ce335fa9bba71ea5434f7c467e983b507438b77292f5e54bda16ca5fa8",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70235666666667,
+          -6.504984722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261022_085132.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261022_085132",
+        "arquivo": "TimePhoto_20261022_085132.jpg",
+        "caminho": "IMGS/TimePhoto_20261022_085132.jpg",
+        "lat": -6.504993333333333,
+        "lon": -49.70234472222222,
+        "latlon": "-6.504993, -49.702345",
+        "utm": "22M 643485 9280788",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643485,
+        "utm_northing": 9280788,
+        "utm_hemisphere": "S",
+        "data": "22/10/2026",
+        "horario": "08:51",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "8c8335dfea411c3c01b756ec52a81aaf833c4d71d83074cd77df64d47a85195c",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70234472222222,
+          -6.504993333333333
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MVKBJ5DR",
+    "dataCampo": "2026-10-23",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Corte de terreno e carregamento de matéria orgânica ",
+    "clima": "nublado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área para pastagem animal, com vegetação composta por capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica ",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
