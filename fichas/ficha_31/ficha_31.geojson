@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_094800.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_094800",
+        "arquivo": "TimePhoto_20261112_094800.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_094800.jpg",
+        "lat": -6.51375,
+        "lon": -49.704053055555555,
+        "latlon": "-6.513750, -49.704053",
+        "utm": "22M 643294 9279820",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643294,
+        "utm_northing": 9279820,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "09:48",
+        "legenda": "Carregamento de solos",
+        "hash_md5": null,
+        "hash_sha256": "0adadd99a92290a82b4bcb2f01f5908ade2098c219ed20fe243e290a5777b38f",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704053055555555,
+          -6.51375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_104908.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_104908",
+        "arquivo": "TimePhoto_20261112_104908.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_104908.jpg",
+        "lat": -6.51375,
+        "lon": -49.70411805555556,
+        "latlon": "-6.513750, -49.704118",
+        "utm": "22M 643287 9279820",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643287,
+        "utm_northing": 9279820,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "10:49",
+        "legenda": "Escarificação",
+        "hash_md5": null,
+        "hash_sha256": "03bf84109a7b924c9ff280f1333dcff27e8c7d653036c1e09e7efa53a5104df4",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70411805555556,
+          -6.51375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_100102.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_100102",
+        "arquivo": "TimePhoto_20261112_100102.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_100102.jpg",
+        "lat": -6.513448333333334,
+        "lon": -49.70416,
+        "latlon": "-6.513448, -49.704160",
+        "utm": "22M 643282 9279853",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643282,
+        "utm_northing": 9279853,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "10:01",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "816cc92d04876cee8e7a0dd9d3281a5ffc5c49c0ccf4dea20609f7b4fdd48f7a",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70416,
+          -6.513448333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_094303.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_094303",
+        "arquivo": "TimePhoto_20261112_094303.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_094303.jpg",
+        "lat": -6.514051666666667,
+        "lon": -49.7042,
+        "latlon": "-6.514052, -49.704200",
+        "utm": "22M 643277 9279787",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643277,
+        "utm_northing": 9279787,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "09:43",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "e5d518367ccca829adc5e8c1fb4cd0103109ba527bcc424b137b379d7de38cac",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7042,
+          -6.514051666666667
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWFGKPBG",
+    "dataCampo": "2026-11-13",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Terraplanagem ",
+    "clima": "nublado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área com baixa vegetação,onde predominam, capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
