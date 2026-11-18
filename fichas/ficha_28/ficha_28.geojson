@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_085012.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_085012",
+        "arquivo": "TimePhoto_20261110_085012.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_085012.jpg",
+        "lat": -6.514034722222222,
+        "lon": -49.70432138888889,
+        "latlon": "-6.514035, -49.704321",
+        "utm": "22M 643264 9279789",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643264,
+        "utm_northing": 9279789,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "08:50",
+        "legenda": "Acompanhando atividade",
+        "hash_md5": null,
+        "hash_sha256": "c0d4582fdf049ad6e533520459ec08e1d6f36cb7452abb22747f294f3523d34b",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70432138888889,
+          -6.514034722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_084929.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_084929",
+        "arquivo": "TimePhoto_20261110_084929.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_084929.jpg",
+        "lat": -6.514085,
+        "lon": -49.70437166666667,
+        "latlon": "-6.514085, -49.704372",
+        "utm": "22M 643258 9279783",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643258,
+        "utm_northing": 9279783,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "08:49",
+        "legenda": "Carregamento de solos",
+        "hash_md5": null,
+        "hash_sha256": "a41286d69178be5f4dacc8915a6a818d93acef7a3ee5aa28f3a1c415024e4997",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70437166666667,
+          -6.514085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_085040.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_085040",
+        "arquivo": "TimePhoto_20261110_085040.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_085040.jpg",
+        "lat": -6.51403,
+        "lon": -49.70432,
+        "latlon": "-6.514030, -49.704320",
+        "utm": "22M 643264 9279789",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643264,
+        "utm_northing": 9279789,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "08:50",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "bc732ab2ed1284e5aa1faa913ea0069e88c7a2526c1fcbf2096eba34bc57285e",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70432,
+          -6.51403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_084951.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_084951",
+        "arquivo": "TimePhoto_20261110_084951.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_084951.jpg",
+        "lat": -6.514,
+        "lon": -49.704305000000005,
+        "latlon": "-6.514000, -49.704305",
+        "utm": "22M 643266 9279792",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643266,
+        "utm_northing": 9279792,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "08:49",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "e57de6165d75a2e8773294a4662e92d73901fb8e08bfb4ebe4be6c6ef9c39604",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704305000000005,
+          -6.514
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWB461DA",
+    "dataCampo": "2026-11-10",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Terraplanagem ",
+    "clima": "nublado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de acessos/estrada, sem vegetação, área de retrabalho.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
