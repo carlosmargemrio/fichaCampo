@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261103_095621.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261103_095621",
+        "arquivo": "TimePhoto_20261103_095621.jpg",
+        "caminho": "IMGS/TimePhoto_20261103_095621.jpg",
+        "lat": -6.499203055555555,
+        "lon": -49.703138055555556,
+        "latlon": "-6.499203, -49.703138",
+        "utm": "22M 643399 9281428",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643399,
+        "utm_northing": 9281428,
+        "utm_hemisphere": "S",
+        "data": "03/11/2026",
+        "horario": "09:56",
+        "legenda": "Acompanhando atividade",
+        "hash_md5": null,
+        "hash_sha256": "efd26c348dc4dfcdafe2ea60d58d149a7839d67068ceb294f18116d6c006063c",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703138055555556,
+          -6.499203055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261103_100446.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261103_100446",
+        "arquivo": "TimePhoto_20261103_100446.jpg",
+        "caminho": "IMGS/TimePhoto_20261103_100446.jpg",
+        "lat": -6.499258333333334,
+        "lon": -49.703518333333335,
+        "latlon": "-6.499258, -49.703518",
+        "utm": "22M 643357 9281422",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643357,
+        "utm_northing": 9281422,
+        "utm_hemisphere": "S",
+        "data": "03/11/2026",
+        "horario": "10:04",
+        "legenda": "Corte de terreno",
+        "hash_md5": null,
+        "hash_sha256": "c5517a5d01ddc6ec0eb3a12644b9aa7d0deb8bf6a7e132756a2671762a2d7e88",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703518333333335,
+          -6.499258333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261103_095559.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261103_095559",
+        "arquivo": "TimePhoto_20261103_095559.jpg",
+        "caminho": "IMGS/TimePhoto_20261103_095559.jpg",
+        "lat": -6.499198333333333,
+        "lon": -49.703048055555556,
+        "latlon": "-6.499198, -49.703048",
+        "utm": "22M 643409 9281429",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643409,
+        "utm_northing": 9281429,
+        "utm_hemisphere": "S",
+        "data": "03/11/2026",
+        "horario": "09:55",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "dc6422d89bfc44804de36ea15acd15c93159e0c6dd9ea5c491cdc08cdfd993b3",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.703048055555556,
+          -6.499198333333333
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MW1BAMGW",
+    "dataCampo": "2026-11-03",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Terraplanagem e carregamento de matéria orgânica ",
+    "clima": "ensolarado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo  argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área de acessos com vegetação composta por capim e gramíneas ",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
