@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261118_104536.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261118_104536",
+        "arquivo": "TimePhoto_20261118_104536.jpg",
+        "caminho": "IMGS/TimePhoto_20261118_104536.jpg",
+        "lat": -6.498411666666667,
+        "lon": -49.704171388888895,
+        "latlon": "-6.498412, -49.704171",
+        "utm": "22M 643285 9281516",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643285,
+        "utm_northing": 9281516,
+        "utm_hemisphere": "S",
+        "data": "18/11/2026",
+        "horario": "10:45",
+        "legenda": "Terraplanagem",
+        "hash_md5": null,
+        "hash_sha256": "6dc8a207f697bc2c52a7924fe94e12208d82c898aad83f4e946527b13b4a9835",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704171388888895,
+          -6.498411666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261118_104423.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261118_104423",
+        "arquivo": "TimePhoto_20261118_104423.jpg",
+        "caminho": "IMGS/TimePhoto_20261118_104423.jpg",
+        "lat": -6.497961666666667,
+        "lon": -49.704194722222226,
+        "latlon": "-6.497962, -49.704195",
+        "utm": "22M 643283 9281566",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643283,
+        "utm_northing": 9281566,
+        "utm_hemisphere": "S",
+        "data": "18/11/2026",
+        "horario": "10:44",
+        "legenda": "Acompanhamento de atividade",
+        "hash_md5": null,
+        "hash_sha256": "2e105b08bc23ba8614be74b0cad22b1361c38e8a4da8bfc253aabae5b746f1ee",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.704194722222226,
+          -6.497961666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261118_104513.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261118_104513",
+        "arquivo": "TimePhoto_20261118_104513.jpg",
+        "caminho": "IMGS/TimePhoto_20261118_104513.jpg",
+        "lat": -6.498204722222222,
+        "lon": -49.70409333333333,
+        "latlon": "-6.498205, -49.704093",
+        "utm": "22M 643294 9281539",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643294,
+        "utm_northing": 9281539,
+        "utm_hemisphere": "S",
+        "data": "18/11/2026",
+        "horario": "10:45",
+        "legenda": "Terraplanagem",
+        "hash_md5": null,
+        "hash_sha256": "27163bb7289495d0dc8c7910aff5c55448ed926eae6d9e6349a1d84a2bb34544",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70409333333333,
+          -6.498204722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261118_104440.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261118_104440",
+        "arquivo": "TimePhoto_20261118_104440.jpg",
+        "caminho": "IMGS/TimePhoto_20261118_104440.jpg",
+        "lat": -6.497958333333333,
+        "lon": -49.70415805555556,
+        "latlon": "-6.497958, -49.704158",
+        "utm": "22M 643287 9281566",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643287,
+        "utm_northing": 9281566,
+        "utm_hemisphere": "S",
+        "data": "18/11/2026",
+        "horario": "10:44",
+        "legenda": "Terraplanagem",
+        "hash_md5": null,
+        "hash_sha256": "7bf7930b33d58c26c8c7f567b8d34e7127706a87323c6a54c990e1fc56a7b3d8",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70415805555556,
+          -6.497958333333333
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWO0ETWY",
+    "dataCampo": "2026-11-19",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Terraplanagem ",
+    "clima": "nublado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área com vegetação baixa, onde predominam capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": []
+  }
+}
