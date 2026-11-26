@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261124_083348.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261124_083348",
+        "arquivo": "TimePhoto_20261124_083348.jpg",
+        "caminho": "IMGS/TimePhoto_20261124_083348.jpg",
+        "lat": -6.5096847222222225,
+        "lon": -49.70309,
+        "latlon": "-6.509685, -49.703090",
+        "utm": "22M 643401 9280269",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643401,
+        "utm_northing": 9280269,
+        "utm_hemisphere": "S",
+        "data": "24/11/2026",
+        "horario": "08:33",
+        "legenda": "Revolvimento de solo",
+        "hash_md5": null,
+        "hash_sha256": "a3f590f793b6228b05824da8b97afb0cf4226d8aa864b2ff8d923d95093f6360",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70309,
+          -6.5096847222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261124_083100.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261124_083100",
+        "arquivo": "TimePhoto_20261124_083100.jpg",
+        "caminho": "IMGS/TimePhoto_20261124_083100.jpg",
+        "lat": -6.50985,
+        "lon": -49.70304138888889,
+        "latlon": "-6.509850, -49.703041",
+        "utm": "22M 643407 9280251",
+        "utm_zone": 22,
+        "utm_band": "M",
+        "utm_easting": 643407,
+        "utm_northing": 9280251,
+        "utm_hemisphere": "S",
+        "data": "24/11/2026",
+        "horario": "08:31",
+        "legenda": "Averiguação de perfil",
+        "hash_md5": null,
+        "hash_sha256": "eab4c97a7ceda2f44e6a3a11147c05dc1d2e5c04b88cd068929c8c2ad4d36772",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70304138888889,
+          -6.50985
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWUOC6VG",
+    "dataCampo": "2026-11-24",
+    "horaIni": "07:00",
+    "horaFim": "17:00",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Santa Lúcia ",
+    "coordCampo": "Cícero Oliveira ",
+    "arqResp": "Cícero Oliveira ",
+    "tipoAcao": "Revolvimento de solo",
+    "clima": "ensolarado",
+    "vegetacao": "Capim e gramíneas ",
+    "relevo": "Levemente acidentado ",
+    "solo": "Latossolo argiloso ",
+    "vestigios": "NAO",
+    "coleta": "NAO",
+    "desc": "Área com vegetação rasteira, onde predominam capim e gramíneas.",
+    "obs": "Durante acompanhamento das atividades, não evidênciamos materialidade aequeólogica.",
+    "modeloDocx": "MONITORAMENTO",
+    "status": "DRAFT",
+    "imagens_sem_gps": [
+      {
+        "nome": "TimePhoto_20261124_083504",
+        "arquivo": "TimePhoto_20261124_083504.jpg",
+        "caminho": "IMGS/TimePhoto_20261124_083504.jpg",
+        "data": "24/11/2026",
+        "horario": "08:35",
+        "legenda": "Revolvimento de sol",
+        "hash_sha256": "9fc06d43563b4660db68a19f16f443fa0ea882681cfbbbe67a16f70462d2f948",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      },
+      {
+        "nome": "TimePhoto_20261124_083141",
+        "arquivo": "TimePhoto_20261124_083141.jpg",
+        "caminho": "IMGS/TimePhoto_20261124_083141.jpg",
+        "data": "24/11/2026",
+        "horario": "08:31",
+        "legenda": "Revolvimento de solo",
+        "hash_sha256": "4f4ee713fec317167b778468cfcc79b9b95dc7b669ba279f5455938aa8fee19e",
+        "origem_coordenadas": "SEM_GPS",
+        "exif_js_status": "GPS_NAO_ENCONTRADO_JS",
+        "exif_native_status": "GPS_NAO_ENCONTRADO_NO_EXIF_NATIVO",
+        "exif_native_modo_leitura": "SELECTED_URI_PFD",
+        "exif_native_seletor": null,
+        "exif_native_rotas_tentadas": null
+      }
+    ]
+  }
+}
